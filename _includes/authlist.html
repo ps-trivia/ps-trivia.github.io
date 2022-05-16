@@ -1,0 +1,3 @@
+{% for item in site.data.auth[include.rank].users %}
+- {% if site.data.auth[include.rank].start %} {{ site.data.auth[include.rank].start }} {% endif %}<span style="color:{{ item.colour }}">{{ item.name }}</span>{% if site.data.auth[include.rank].end %} {{ site.data.auth[include.rank].end }} {% endif %} {% if item.note %} {{ item.note }} {% endif %}
+{% endfor %}

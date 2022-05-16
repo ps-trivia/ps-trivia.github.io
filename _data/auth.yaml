@@ -1,0 +1,338 @@
+ro:
+    start: "<em><strong>"
+    end: "</strong></em>"
+    users:
+        - name: Aegii
+          colour: "#3f80bc"
+        - name: chunko
+          colour: "#e84e11"
+        - name: Grimm
+          colour: "#c63b56"
+        - name: Notater517
+          colour: "#766fc1"
+        - name: Struchni
+          colour: "#cb356d"
+mod:
+    start: "<strong>"
+    end: "</strong>"
+    users:
+        - name: Annika
+          colour: "#7a4ae3"
+        - name: Darthikyu
+          colour: "#b53312"
+          note: "(formerly #)"
+        - name: Dazelel
+          colour: "#328169"
+        - name: Hokatsuki
+          colour: "#ba26b0"
+        - name: Lucario•1582
+          colour: "#965e36"
+        - name: StrmSrg
+          colour: "#0e5fd8"
+        - name: yeet dab xd
+          colour: "#596bd1"
+driver:
+    start: "<strong>"
+    end: "</strong>"
+    users:
+        - name: Beedrill-Mega
+          colour: "#ab7533"
+        - name: Bidoof_Overlord119
+          colour: "#87923f"
+        - name: Falcon2703
+          colour: "#19b1a7"
+        - name: FoundThenLost
+          colour: "#4952f3"
+        - name: jegoro
+          colour: "#0ba65e"
+        - name: KawaiiiiPotato
+          colour: "#bd4c77"
+        - name: magic communist
+          colour: "#be4b59"
+        - name: notcollintan
+          colour: "#3d970c"
+        - name: ntron
+          colour: "#ca3f0c"
+        - name: TeutonicSquire
+          colour: "#4c871c"
+        - name: WarriorGallade
+          colour: "#8431e9"
+        - name: Yech
+          colour: "#658d25"
+voice:
+    users:
+        - name: artemy burakh
+          colour: "#16b0b6"
+        - name: BoltSapphire
+          colour: "#54a40a"
+          note: "(formerly %)"
+        - name: CynicCyndaquil
+          colour: "#ab6117"
+        - name: deftinwolf
+          colour: "#3857f2"
+          note: "(formerly #)"
+        - name: Dot Comfey
+          colour: "#c64040"
+          note: "(formerly #)"
+        - name: ElbowSkinn
+          colour: "#779825"
+          note: "(formerly @)"
+        - name: Fmaj7
+          colour: "#b620d4"
+          note: "(formerly @)"
+        - name: Garrett16
+          colour: "#4b9c2b"
+          note: "(formerly #)"
+        - name: mukund
+          colour: "#a049ba"
+        - name: Mystiphox
+          colour: "#2d8f34"
+        - name: Qui-Gon the Flygon
+          colour: "#ce0c12"
+          note: "(formerly %)"
+        - name: shayy min skyy
+          colour: "#aa1da3"
+          note: "(formerly %)"
+        - name: Tapler
+          colour: "#b48122"
+formerro:
+    start: "<strong>"
+    end: "</strong>"
+    users:
+        - name: Arcadium
+          colour: "#ba21c8"
+        - name: Aura Burst
+          colour: "#8b54ca"
+        - name: beej
+          colour: "#3e9d0c"
+        - name: deftinwolf
+          colour: "#3857f2"
+        - name: Dell
+          colour: "#1673b6"
+        - name: Hugendugen
+          colour: "#e22e94"
+        - name: Jelandee
+          colour: "#ef389d"
+        - name: Joim
+          colour: "#e53659"
+        - name: Kazuya Miyuki
+          colour: "#662ef2"
+        - name: MicktheSpud
+          colour: "#0b769d"
+        - name: Ninjadog
+          colour: "#2aa7c0"
+        - name: Queez
+          colour: "#4158d6"
+        - name: Raven
+          colour: "#1f6bce"
+        - name: rolen120
+          colour: "#1e79ae"
+        - name: rxdb
+          colour: "#0ea722"
+        - name: Sun☀️GodVolcarona
+          colour: "#cf2040"
+        - name: Tiksi
+          colour: "#0bb6ab"
+        - name: Timbuktu
+          colour: "#8640ae"
+        - name: Trickster
+          colour: "#6f5ef3"
+        - name: Vacate
+          colour: "#d3325b"
+        - name: Whis
+          colour: "#719913"
+formermod:
+    start: "<strong>"
+    end: "</strong>"
+    users:
+        - name: Angels2002
+          colour: "#0e9a1a"
+        - name: A Phantom
+          colour: "#8769bf"
+        - name: aquiloboreas
+          colour: "#c63134"
+        - name: Archiac
+          colour: "#1f61cb"
+        - name: Ayase
+          colour: "#ab468b"
+        - name: Birdy~!
+          colour: "#ab12ed"
+        - name: BUCKLE YOUR PANTS
+          colour: "#d17229"
+        - name: Bunguin87
+          colour: "#137da4"
+        - name: Computerwizard8800
+          colour: "#3675b5"
+        - name: Chimplup
+          colour: "#148a33"
+        - name: CloudyNatu/Clouds
+          colour: "#188c37"
+        - name: CocoonMetaKnight
+          colour: "#d95e21"
+        - name: DanDaMan99
+          colour: "#997a38"
+        - name: Dodmen
+          colour: "#0a9d87"
+        - name: ElbowSkinn
+          colour: "#779825"
+        - name: Fmaj7
+          colour: "#b620d4"
+        - name: Gensokyo
+          colour: "#67a456"
+        - name: Instruct
+          colour: "#c84429"
+        - name: Lagua
+          colour: "#b04854"
+        - name: Litt♥Eleven
+          colour: "#0f7bbe"
+        - name: Logic
+          colour: "#2168b5"
+        - name: LordNwahs6
+          colour: "#6c920c"
+        - name: Made in Saudi
+          colour: "#5d31ee"
+        - name: MiniArchitect
+          colour: "#c84b25"
+        - name: moo
+          colour: "#e011e4"
+        - name: Morfent
+          colour: "#bc2161"
+        - name: Nokocchi
+          colour: "#a749a7"
+        - name: Not Orangejuice
+          colour: "#7f50ae"
+        - name: nui
+          colour: "#cc3457"
+        - name: panpawn
+          colour: "#cd970f"
+        - name: pasmal
+          colour: "#b35f45"
+        - name: Phil
+          colour: "#be7822"
+        - name: PikachuSean
+          colour: "#3d7c22"
+        - name: p0ip0le
+          colour: "#0b9c2d"
+        - name: runy12222
+          colour: "#33b23e"
+        - name: Ryota Mitarai
+          colour: "#6e34ed"
+        - name: ScarfWynaut
+          colour: "#6c4bc8"
+        - name: smii☆彡
+          colour: "#5846f3"
+        - name: Snaquaza
+          colour: "#b66f39"
+        - name: Spheals
+          colour: "#2a9c6b"
+        - name: Starmaster
+          colour: "#c836c0"
+        - name: "Trainer 10913"
+          colour: "#a27a29"
+        - name: Tunaface
+          colour: "#664bec"
+        - name: uqb
+          colour: "#ab12a1"
+        - name: Wan The Avatar
+          colour: "#b49112"
+        - name: WolvenCarnus
+          colour: "#d437aa"
+        - name: xfix
+          colour: "#9b3fab"
+        - name: zfs
+          colour: "#1b77a1"
+formerdriver:
+    start: "<strong>"
+    end: "</strong>"
+    users:
+        - name: Amber & Crystal
+          colour: "#b739c3"
+        - name: Andrew
+          colour: "#349d44"
+        - name: Andy >_>
+          colour: "#dd75d5"
+        - name: Axamin
+          colour: "#a46646"
+        - name: BoltSapphire
+          colour: "#54a40a"
+        - name: chillmf
+          colour: "#6c34e7"
+        - name: damnright
+          colour: "#47a77d"
+        - name: Dawn's Piplup
+          colour: "#7a59a9"
+        - name: einstien74
+          colour: "#969011"
+        - name: finalninja243
+          colour: "#328570"
+        - name: Flerovium
+          colour: "#e22e4f"
+        - name: FrogJPK
+          colour: "#ba44bc"
+        - name: HawaiianGirl
+          colour: "#618a0f"
+        - name: HeracrossTheGreek
+          colour: "#e07d1a"
+        - name: HeroicTobias
+          colour: "#1ca2cb"
+        - name: jcdumassian
+          colour: "#0eb8bb"
+        - name: Jessilina
+          colour: "#bc44a4"
+        - name: King Chandelure
+          colour: "#927f3f"
+        - name: Kinkaida
+          colour: "#c84362"
+        - name: LifeOrbLileep
+          colour: "#a2488e"
+        - name: lotiasite
+          colour: "#2c7586"
+        - name: Ocean
+          colour: "#c92c87"
+        - name: Oreo Haircuts
+          colour: "#660000"
+        - name: Prank
+          colour: "#3362e3"
+        - name: PrimalLanturn
+          colour: "#4379a8"
+        - name: Qui-Gon the Flygon
+          colour: "#ce0c12"
+        - name: Reverb
+          colour: "#0000ff"
+        - name: Sanjay
+          colour: "#bf9000"
+        - name: ShadowSirens
+          colour: "#a251bb"
+        - name: Shayy Min Skyy
+          colour: "#aa1da3"
+        - name: skiddo
+          colour: "#aa7037"
+        - name: SkywardSword596
+          colour: "#4e64b4"
+        - name: Solehuangist
+          colour: "#645caa"
+        - name: SusatoMikotoba
+          colour: "#3a8b8a"
+        - name: swordofspheals
+          colour: "#7e59c1"
+        - name: SpecterReaper
+          colour: "#c11e10"
+        - name: The Dark Alakazam
+          colour: "#9146ce"
+        - name: Timekeeper Dialga
+          colour: "#8050b1"
+        - name: Too Much Bold
+          colour: "#9845af"
+        - name: Unwired
+          colour: "#9222ed"
+        - name: ulcer
+          colour: "#c1368a"
+        - name: xernn
+          colour: "#2b92b2"
+        - name: xorhash
+          colour: "#ff0000"
+        - name: Yuki
+          colour: "#a561d0"
+        - name: ZeZangoose
+          colour: "#8d5024"
+
