@@ -1,7 +1,45 @@
 <!DOCTYPE html>
 <html>
 	{% include header.html %}
-	<div class="content">
-		{{ content }}
-	</div>
+	<body>
+        <nav>
+            <ul>
+                <li><a href="/rules">Rules</a></li>
+                <li><a href="/faq">FAQ</a></li>
+                <li><a href="/roomauth">Roomauth</a>
+                    <ul class="sublinks">
+                        <li><a href="/former-staff">Former Staff</a></li>
+                    </ul>
+                </li>
+                <li><a href="/trivia-tracker">Trivia Tracker</a>
+                    <ul class="sublinks">
+                        <li><a href="/tt-intro">TT Intro</a></li>
+                    </ul>
+                </li>
+                <li><a href="/question-workshop">Question Workshop</a></li>
+                <li><a href="/policy-updates">Policy Updates</a></li>
+                <li><a href="/minigames">Minigames</a>
+                    <ul class="sublinks">
+                        <li><a href="/blitz">Blitz</a></li>
+                        <li><a href="/tour-duel">Tour Duel</a></li>
+                        <li><a href="/dodgeball">Dodgeball</a></li>
+                        <li><a href="/team-traitor">Team Traitor</a></li>
+                        <li><a href="/prime-minister">Prime Minister</a></li>
+                        <li><a href="/tick-tack-boom">Tick-Tack Boomb</a></li>
+                        <li><a href="/ttsa">Trivia Tracker Single Asker (TTSA)</a></li>
+                        <li><a href="/king-of-the-hill">King of the Hill</a></li>
+                        <li><a href="/cataloguer">Cataloguer</a></li>
+                        <li><a href="/spot-that-ditto">Spot That Ditto</a></li>
+                        <li><a href="/suspect-search">Suspect Search</a></li>
+                        <li><a href="/the-reg-game">The Reg Game</a></li>
+                        <li><a href="/mastermind">Mastermind</a></li>
+                        <li><a href="/hosting-and-submission">Hosting and Submission</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+        <div class="content">
+            {{ content }}
+        </div>
+    </body>
 </html>
