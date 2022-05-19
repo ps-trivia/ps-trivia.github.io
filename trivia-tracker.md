@@ -1,14 +1,14 @@
 ---
-title: Rules
+title: Trivia Tracker
 layout: default
 ---
 
 ### What is Trivia Tracker?
 Trivia Tracker (TT) is the main game mode in the Trivia Room. In this game, the user who has the **BP** (short for **B**aton **P**ass) gets to ask a question, and whoever gets that question right receives the BP and gets to ask their own question. And so on! Meanwhile, the room’s resident bot, Jeopard-E, adds points and keeps track of whose turn it is at all times. If you are new to TT, please read [this brief introduction](https://docs.google.com/document/d/1dHRz0vSEuF3WwWnqxVZdss9C1dZE37DrmAVqt0HRTEk) to the game, or scroll down to the section titled "Helpful Topics for New Users."
 
-When you've done so, you should also go through the Question Rules listed on this page to familiarise yourself with the types of questions which should not be asked (you can also PM Jeopard-E with the command **~rules**). Learning to ask suitable questions will enable you to contribute to the positive room environment. Due to the nature of asking and answering questions in a chatroom, Trivia Tracker has a lot of rules that can be confusing at first. Please don’t be discouraged! Everyone makes mistakes, even after they have been in the Trivia Room for a long time. This guide is here to help you, and if you have any questions, please feel free to ask staff for help.
+When you've done so, you should also go through the Question Rules listed on this page to familiarise yourself with the types of questions which should not be asked (you can also PM Jeopard-E with the command ``~rules``). Learning to ask suitable questions will enable you to contribute to the positive room environment. Due to the nature of asking and answering questions in a chatroom, Trivia Tracker has a lot of rules that can be confusing at first. Please don’t be discouraged! Everyone makes mistakes, even after they have been in the Trivia Room for a long time. This guide is here to help you, and if you have any questions, please feel free to ask staff for help.
 
-A full guide on how Jeopard-E works can be found [here](https://drive.google.com/file/d/0B8KyGlawfHaKRUZxZGlqQ3RkVlk/view) (you can also PM the bot with the command **~help**).
+A full guide on how Jeopard-E works can be found [here](https://drive.google.com/file/d/0B8KyGlawfHaKRUZxZGlqQ3RkVlk/view) (you can also PM the bot with the command ``~help``).
 
 ### Basic Trivia Tracker Etiquette
 
@@ -17,9 +17,9 @@ A full guide on how Jeopard-E works can be found [here](https://drive.google.com
 - Please avoid overasking questions. If a question was recently asked in chat (1-2 hours) it can be vetoed for recency. If a question is asked too often over several days or weeks, it can be vetoed for being overasked.
 - If you need an extension, highlight an authorized user (+ or up) and they will close the BP for you. But do not time stall.
 - Do not claim BP just to open it again.
-- If your question has been vetoed, do not try to use ~yes. Ask a new question or open the BP.
+- If your question has been vetoed, do not try to use ``~yes``. Ask a new question or open the BP.
 - If you would like to dispute a veto, please take it up with a staff member in PM. Don’t debate about it at-length in the chat, as this drags down the game.
-- If you think a question should be vetoed, don’t say “veto.” Highlight an auth by saying "~auth" and they will deal with the problem. You can only veto your own questions.
+- If you think a question should be vetoed, don’t say “veto.” Highlight an auth by saying ``~auth`` and they will deal with the problem. You can only veto your own questions.
 - Don’t be mean to new users who don’t understand the rules. Direct them to this document and the beginners’ guide.
 - Please respect asker’s discretion in choosing an answer, where applicable.
 - Room auth have the authority to exercise leniency to new users in the room in regards to some Trivia Tracker rules.

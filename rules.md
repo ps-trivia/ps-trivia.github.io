@@ -17,7 +17,7 @@ Users who try to make trouble by using the gray areas of these rules or try to f
 - Minor offenses such as overuse of swearing, disrespecting authority (including but not limited to questioning authority in the chat), etc. will also be dealt with.
 - Please do not discuss moderator decisions in the chat. If you disagree with a moderator decision then appeal to a room owner (#).
 - Do not excessively complain about how the room is being run (i.e. do not complain about the type of question, who’s asking it, what the rules are, etc.).
-- Please don't leak answers to official questions in the chat. Use the "/ta" command to answer questions.
+- Please don't leak answers to official questions in the chat. Use the `/ta` command to answer questions.
 - Do not post links in the chat without permission from staff (% or up). You will be warned and the link will be broken. We will be lenient if the purpose of the link is to clarify a question or appeal a veto, but if told to move on, you must move on.
 - If a player willingly and clearly displays the behavior that they qualified for a minigame finals without the intent to participate in them, they will be penalized. These penalties include but may not be limited to: Disqualification from the next minigame, disqualifications from all minigames, or more severe room punishments for repeated behavior.
 - Suicide jokes, be it about suicide, related to suicide, or making light of suicide, are disallowed in Trivia. This includes "kms".
