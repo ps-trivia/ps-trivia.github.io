@@ -37,4 +37,4 @@ A: Type `/trivia` rank to view your leaderboard score, as well as other informat
 Q: What’s the category of the current game?
 A: That information is displayed via `/trivia`.
 
-![Pensive Hatmor](https://pstrivia.weebly.com/uploads/2/5/1/0/25107733/ps-trivia_1_orig.png)
+![Pensive Hatmor](/assets/images/hatmor.png)
