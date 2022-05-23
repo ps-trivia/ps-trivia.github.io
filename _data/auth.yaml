@@ -23,12 +23,16 @@ mod:
           note: "(formerly #)"
         - name: Dazelel
           colour: "#328169"
+        - name: FoundThenLost
+          colour: "#4952f3"
         - name: Hokatsuki
           colour: "#ba26b0"
         - name: Lucario•1582
           colour: "#965e36"
         - name: StrmSrg
           colour: "#0e5fd8"
+        - name: TeutonicSquire
+          colour: "#4c871c"
         - name: yeet dab xd
           colour: "#596bd1"
 driver:
@@ -41,8 +45,6 @@ driver:
           colour: "#87923f"
         - name: Falcon2703
           colour: "#19b1a7"
-        - name: FoundThenLost
-          colour: "#4952f3"
         - name: jegoro
           colour: "#0ba65e"
         - name: KawaiiiiPotato
@@ -53,8 +55,6 @@ driver:
           colour: "#3d970c"
         - name: ntron
           colour: "#ca3f0c"
-        - name: TeutonicSquire
-          colour: "#4c871c"
         - name: WarriorGallade
           colour: "#8431e9"
         - name: Yech
