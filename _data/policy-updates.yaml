@@ -1,0 +1,132 @@
+years:
+    - year: 2022
+      updates:
+          - date: April 16
+            text: When you claim BP, you will now get two points for asking instead of just one.
+          - date: March 28
+            text: Spoiler clause now requires one month to have passed since global release instead of three months.
+          - date: February 28
+            text: "All questions will assume the National Dex, which includes new Pokemon introduced in Pokemon Legends: Arceus. Therefore, Ursaring would be NFE and Eviolite would be treated as if it works on Ursaring. Asking about moves introduced in Pokemon Legends: Arceus without specifying the context of Pokemon Legends: Arceus would also be allowed. However, all mechanics, such as battle mechanics, item mechanics, move mechanics, etc. would default to the context of the current VGC game, which would currently be Pokemon Sword and Shield."
+          - date: January 27
+            text: "Questions about any content in Pokemon Legends: Arceus are banned until February 11, and questions about story content in Pokemon Legends: Arceus are banned until February 25."
+    - year: 2021
+      updates:
+          - date: December 19
+            text: "Questions about Brilliant Diamond / Shining Pearl story content can now be asked."
+          - date: December 16
+            text: "If an answer is given in a language other than English, it is up to the person that gave the answer to vouch for their own answer and its correctness, and it will be accepted if sufficient evidence (understandable in English) is given. English answers are always accepted when they exist and all answers should be given only in Latin characters."
+          - date: November 24
+            text: "Questions about Brilliant Diamond / Shining Pearl story content are not allowed until December 19."
+          - date: November 8
+            text: "An evolutionary family is now defined as a complete collection of Pokemon that are all connected by evolutions and an evolutionary line is now defined as a complete sequence of Pokemon where each evolves into the next in the sequence. One Pokemon can form its own evolutionary family or line, but that cannot be used to defeat the purpose of a question (AKA \"trick answers\")."
+          - date: April 27
+            text: "Questions using spoiler tags are allowed, as long as it is outside the normal TT spoiler period, someone in chat has explicitly said they don't want to be spoiled on the topic, and it is marked with bold text outside the spoiler indicating that it is a TT question and what the spoiler is for."
+          - date: April 20
+            text: "In alphabetical order digits (0-9) come before Latin characters (a-z), and other characters are unordered."
+          - date: April 20
+            text: "'Fan content' that has a large and official following outside of simply being a derivative work (for example Team Fortress, the popular Quake modification) are valid topics in Trivia."
+          - date: April 20
+            text: "Abilities are included in Normal Battle Conditions (NBC), as long as it is the ability of a Pokemon specifically mentioned in the question or the subject of the question. Additionally, weaknesses/resistances are purely type-based and follow /weak, while immunities take abilities into account."
+          - date: March 17
+            text: "E-reader cards are considered events. Pokemon only obtained using E-reader cards are event Pokemon, and berries only obtained from E-reader cards are event berries."
+          - date: March 8
+            text: "Questions about anagrams are allowed, as long as the words are related aside from just being anagrams."
+    - year: 2020
+      updates:
+          - date: November 21
+            text: "The rule of three now applies only if an auth member points it out before the question is asked."
+          - date: July 26
+            text: "Answers that require a question be a trick question will not be accepted."
+          - date: May 20
+            text: "Spelling Clause can no longer be specified when asking questions in normal Trivia Tracker. Typo allowance is still in place and unchanged."
+          - date: February 13
+            text: "TT questions are assumed to be in Gen VIII context unless stated otherwise in the question. However, Pokemon that are not available in Gen VIII are considered to be part of Gen VIII for TT purposes. Askers can specify \"in Sword and Shield\" to restrict their question to only those Pokemon available in the Gen VIII games."
+    - year: 2019
+      updates:
+          - date: December 18
+            text: "All questions about Sword/Shield content are unbanned officially; however, Trivia still requires it to be stated so if a question is about Gen VIII, and assumes Gen VII otherwise."
+          - date: November 15
+            text: "A new Smogon clause was added to the Trivia Tracker page, which describes which questions related to Smogon are allowed and which are not."
+          - date: September 15
+            text: "If a player gives more answers than a question asks for, they will not get the question correct unless all answers given are correct."
+          - date: August 28
+            text: "A question cannot ask for 2 things, but specifications (\"include the trainer of a Pokemon\", \"include the country of a city\", etc.) are allowed."
+          - date: July 28
+            text: "Questions about Pokemon Sword/Shield content (even content covered in trailers) are banned until the games release."
+          - date: May 21
+            text: "Question Workshop Submission Contest has been added to the Question Workshop page. For trivia purposes, Struggle will count as a Pokemon move. The word ***exclusive*** will mean: something that is only available to a certain Pokemon or group of Pokemon specified in the question."
+          - date: May 5
+            text: "Copying questions from an external website for Question Workshop is not allowed and doing so may result in demotion of Question Workshop auth."
+          - date: May 4
+            text: "Capital city and Pokemon category name questions are no longer allowed to be submitted in the Question Workshop. Questions asking for an answer that predictably changes (ex: This is the president of the United States) are no longer allowed to be submitted in the Question Workshop."
+          - date: April 26
+            text: "Questions that can be easily answered through the teambuilder are no longer allowed."
+          - date: April 20
+            text: "A new feature has been added to the /ds command that allows the results to be ordered by height, weight, BST, and individual stats. This means that questions such as \"This is the tallest Water-type\" can be found by \"/ds water type, height desc\" and thus are no longer allowed."
+          - date: March 23
+            text: "Abilities will not count towards type matchups, so Eelektross is not immune to Ground. If a question asker wants them to count they must specify as such in their question."
+          - date: March 13
+            text: "There will be a 2 week ban on content from video game/movie/tv show releases that are not plot related. The only exception to this rule will be content that is released to the public beforehand in the forms of teasers and trailers that are intended to give prior information of a release. Those will be treated as 12 hour bans along with sports and music."
+          - date: March 6
+            text: "Questions that state the Japanese name of a Pokemon and ask for the English translation are now dt-able due to a change in the /dt command."
+          - date: February 19
+            text: "Answers that refer to a specific title that includes a number must include the number, unless referring to the first one. For example, a question asking for King Louis XIV can't accept King Louis, but a question about Louis I can."
+          - date: February 6
+            text: "Questions in which a number of answers is mentioned is assumed to be exactly true. A question asking for a Pokemon with two signature moves will only accept answers that have exactly two signature moves. "
+          - date: February 3
+            text: "[This document](https://docs.google.com/document/d/1Ah-XzxasG2cUnN3tXrJWKhxJaJNm9Y4IG2HpNydrerE/edit) is the official list of Pokemon forms in the context of our room. It defines them in two categories: functional and cosmetic."
+          - date: January 27
+            text: "Questions intentionally taken from external trivia websites or other sources are heavily discouraged to be used in TT and may result in disqualification from trivia minigames. "
+          - date: January 15
+            text: "Updated several outdated rules, many of which were already being enforced but had not been updated on the website yet. These included the Boldfail Clause, Smeargle Clause, Spelling Clause, Easily Spammable Questions, Questions in a Current Scavengers Hunt, and the YouTube Clause. Some of these were simply image updates to give a better example questions."
+          - date: January 9
+            text: "Well known fan terms will be acceptable for question askers to use when asking questions and are allowed to use discretion on whether to accept fan term answers or not. Question askers, however, are not allowed to specifically ask for a fan term as an answer. "
+    - year: 2018
+      updates:
+          - date: December 8
+            text: "If a Pokemon or Pokemon form has not been officially released in a main series game, it will not be recognized as a legal Pokemon and does not exist in trivia. Meltan and Melmetal are the only exceptions to this rule. "
+          - date: December 8
+            text: "Pokemon Let's Go Pikachu and Pokemon Let's Go Eevee will be treated as side games. This may change upon the release of Generation 8."
+          - date: November 14
+            text: "If a player willingly and clearly displays the behavior that they qualified for a minigame's finals without the intent to participate in them, they will be penalized. These penalties include but may not be limited to: disqualification from the next minigame, disqualifications from all minigames, or more severe room punishments for repeated behavior."
+          - date: November 9
+            text: "The /dt rule has been expanded to reflect that information that can be gained directly from the pokedex PS links will count as /dtable."
+          - date: October 10
+            text: "The Smeargle and /dt clauses were updated. Smeargle is now considered capable of learning its event moves, and item based questions now have a higher standard before being vetoed for /is searchability."
+          - date: October 3
+            text: "We will follow [this document](https://docs.google.com/document/d/1Oj9oY9pqhgbySFzB8mmxQoJ-bT0opD-smiRv0BVxkaA/edit) from now on regarding countries and how they are represented in trivia."
+          - date: August 30
+            text: "'???' is not considered to be a type."
+          - date: August 28
+            text: "Forms of starter Pokemon will not count as starter Pokemon (no greninja-ash, mega blastoise, pikachu kalos, etc.)"
+          - date: July 8
+            text: "Clarification regarding the banned/restricted question topic \"Fan-made content or Rom Hacks\" has been added."
+          - date: July 4
+            text: "A news/events rule has been added to the banned/restricted question topics."
+          - date: July 1
+            text: "Zeraora has been added to the list of Legendary and Mythical Pokemon. For clarification purposes, Twitch has been added as an example of a banned question topic as it might require players to watch a video or stream."
+          - date: June 13
+            text: |
+                Auth can exercise leniency to new users in relation to some rules. Additionally, Spelling Clause has been updated to reflect some changes:
+                    - Askers only need to accept answers that are 2 characters off if the answer is 6 or more characters long.
+                    - For answers that are 5 characters long, askers only need to accept answers that are 1 character off.
+                    - For answers that are 4 or less characters long, askers can require perfect spelling without specifying Spelling Clause.
+                    - An instance of swapped adjacent letters (e.g. Cihna instead of China) is considered to be 1 character off.
+          - date: May 27
+            text: "Questions that are overasked may be banned on a day-to-day basis. Additionally, Smeargle Clause has been updated to specify that for the purposes of Trivia Tracker, Smeargle can only learn Sketch."
+          - date: May 20
+            text: "The Arceus/Silvally Clause has been changed to the Ambiguous Type Clause, which more generally covers anything that can be multiple types."
+          - date: May 7
+            text: "A definition for Fossil Pokemon has been added to the Glossary of Pokemon Term Definitions."
+          - date: April 17
+            text: "Glitch Clause has been expanded to Illegitimacy Clause, which covers both glitches and hacks. Answers that require the use of these will not be acceptable, unless they are allowed specifically by the question."
+          - date: March 19
+            text: "By default, \"largest\" will refer to area in the context of countries or subdivisions of countries, and population in the context of cities, towns, etc. Askers can still specify one or the other when asking a question."
+          - date: March 18
+            text: "Single types, dex colours, and gym leaders are not multiple choice. However, if answers are spammed they will be vetoed."
+          - date: February 17
+            text: "Three months have passed since the Pokemon USUM worldwide release, so questions about its plot can now be asked."
+    - year: 2017
+      updates:
+          - date: November 21
+            text: "UK countries, Kosovo, and Taiwan are counted as countries. Western Sahara is not."

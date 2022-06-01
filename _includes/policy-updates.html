@@ -1,0 +1,6 @@
+{% for item in site.data.policy-updates.years %}
+#### {{ item.year }}
+{% for update in item.updates %}
+- **{{ update.date }}:** {{ update.text }}
+{% endfor %}
+{% endfor %}
