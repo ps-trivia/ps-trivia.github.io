@@ -1,0 +1,36 @@
+- name: Blitz
+  link: /blitz.html
+  subgames:
+      - name: Team Blitz
+        link: /blitz.html#teamblitz
+- name: Duel
+  link: /duel.html
+  subgames:
+      - name: Team Duel
+        link: /duel.html#teamduel
+      - name: Titanomachy
+        link: /duel.html#titanomachy
+- name: Tour Duel
+  link: /tourduel.html
+- name: Dodgeball
+  link: /dodgeball.html
+- name: Team Traitor
+  link: /teamtraitor.html
+- name: Prime Minister
+  link: /primeminister.html
+- name: Tick-Tack Boom
+  link: /ticktackboom.html
+- name: Image Trivia
+  link: /imagetrivia.html
+- name: King Of The Hill
+  link: /kingofthehill.html
+- name: Cataloguer
+  link: /cataloguer.html
+- name: Spot That Ditto
+  link: /spotthatditto.html
+- name: Suspect Search
+  link: /suspectsearch.html
+- name: The Reg Game
+  link: /reggame.html
+- name: Mastermind
+  link: /mastermind.html
