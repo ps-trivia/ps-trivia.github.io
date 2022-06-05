@@ -2,12 +2,12 @@
   link: /blitz.html
   subgames:
       - name: Team Blitz
-        link: /blitz.html#teamblitz
+        link: /blitz.html#team-blitz
 - name: Duel
   link: /duel.html
   subgames:
       - name: Team Duel
-        link: /duel.html#teamduel
+        link: /duel.html#team-duel
       - name: Titanomachy
         link: /duel.html#titanomachy
 - name: Tour Duel
