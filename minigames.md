@@ -11,7 +11,7 @@ While Trivia Tracker is fun, sometimes you want something to spice up your Trivi
 Generally, one user will host the minigame and it will begin with a period where players must indicate if they wish to participate. The highlight word used for the signup period is 'triviasignups'. Please make sure that you have signed up if you want to play, and be mindful of the current minigame if there is one in progress when you enter the room. (There was another etiquette point I had but I forgot)
 
 **So you want to host a minigame?**  
-Auth can host minigames almost anytime, but regular users can host games as well if they [apply to do so ahead of time](https://pstrivia.weebly.com/submissions.html)!
+Auth can host minigames almost anytime, but regular users can host games as well if they [apply to do so ahead of time](/submissions.html)!
 
 **Current minigame list**
 {% include minigamelist.html %}

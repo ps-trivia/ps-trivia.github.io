@@ -7,7 +7,7 @@ layout: default
 
 Global rules apply.
 
-## General Rules
+### General Rules
 
 Users who try to make trouble by using the gray areas of these rules or try to find loopholes in being a bad presence will still be disciplined. <u>This is up to moderator interpretation, so do not try borderline rule-breaking and expect not to be stopped. This also means that you are not entitled to a warning, as it is up to moderator discretion.</u>
 - Please do not abuse any formatting (**bold**, *italics*, CAPS, <u>underline</u>, ~~strikethrough~~, spoiler, etc).
@@ -22,7 +22,7 @@ Users who try to make trouble by using the gray areas of these rules or try to f
 - If a player willingly and clearly displays the behavior that they qualified for a minigame finals without the intent to participate in them, they will be penalized. These penalties include but may not be limited to: Disqualification from the next minigame, disqualifications from all minigames, or more severe room punishments for repeated behavior.
 - Suicide jokes, be it about suicide, related to suicide, or making light of suicide, are disallowed in Trivia. This includes "kms".
 
-## Ranks of Users in Trivia
+### Ranks of Users in Trivia
 
 - **Room Voices (+)**: Room Voices are users who are recognized as overall good chat presences and are good contributors to the room.  Voices are able to use broadcast commands, enforce Trivia Tracker rules, can start trivia games, and can also talk during modchat.
 - **Room Drivers (%)**: Room Drivers are users who are responsible for maintaining the room and keeping it under control, resorting to disciplinary actions if necessary. Room drivers are able to warn, 7 minute mute, and hourmute offensive users, as well as all of the above. 

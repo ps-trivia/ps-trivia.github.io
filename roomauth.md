@@ -14,7 +14,7 @@ layout: default
 ## Room Voices (+):
 {% include authlist.html rank="voice" %}
 
-[A page for our former trivia staff can be found here.](https://pstrivia.weebly.com/former-staff.html)
+[A page for our former trivia staff can be found here.](/former-staff.html)
 
 [Interview with smii, p0ip0le, and Aegii](https://docs.google.com/document/d/1U-eSSwqaoIkgtgIs9TqVT3fFqDZcvAmlAqRSrl6m-GU)
 [Interview with Skiddo, Annika, and TDA](https://docs.google.com/document/d/1lPfeYIwesp_DT5sCt0W9aTcGzN1IjDByy-xcZFP_MxI)

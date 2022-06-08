@@ -11,26 +11,33 @@
       - name: Titanomachy
         link: /duel.html#titanomachy
 - name: Tour Duel
-  link: /tourduel.html
+  link: /tour-duel.html
 - name: Dodgeball
   link: /dodgeball.html
 - name: Team Traitor
-  link: /teamtraitor.html
+  link: /team-traitor.html
 - name: Prime Minister
-  link: /primeminister.html
+  link: /prime-minister.html
 - name: Tick-Tack Boom
-  link: /ticktackboom.html
-- name: Image Trivia
-  link: /imagetrivia.html
-- name: King Of The Hill
-  link: /kingofthehill.html
+  link: /tick-tack-boom.html
+- name: Trivia Tracker Single Asker (TTSA)
+  link: /ttsa.html
+  subgames:
+      - name: Image Trivia
+        link: /ttsa.html#image-trivia
+      - name: Audio Trivia
+        link: /ttsa.html#audio-trivia
+- name: King of the Hill
+  link: /king-of-the-hill.html
 - name: Cataloguer
   link: /cataloguer.html
 - name: Spot That Ditto
-  link: /spotthatditto.html
+  link: /spot-that-ditto.html
 - name: Suspect Search
-  link: /suspectsearch.html
+  link: /suspect-search.html
 - name: The Reg Game
-  link: /reggame.html
+  link: /the-reg-game.html
 - name: Mastermind
   link: /mastermind.html
+- name: Hosting and Submissions
+  link: /submissions.html
