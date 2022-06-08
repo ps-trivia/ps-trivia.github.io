@@ -5,7 +5,7 @@ layout: default
 
 # Tour Duel
 
-Created by Archangel Izra'il
+[Created by Archangel Izra'il](https://docs.google.com/document/d/1Odap8c7FwTIKurI7I_IaCyBwXrToWe_JAyLtEafOZgI/edit)
 
 - The game begins with participants joining a tournament held in the room in 1v1 Challenge Cup Format.
 - In each battle, the host joins and asks a trivia question. 

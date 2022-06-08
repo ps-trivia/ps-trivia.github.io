@@ -5,7 +5,7 @@ layout: default
 
 # Blitz #
 
-Created by beej
+[Created by beej](https://docs.google.com/document/d/1N2s4ux3UT0PRxsMBu-Y4ZTLc6_DN25y8BGXB-WEzWoo/edit#heading=h.jzch6hcrqdj3)
 
 ### Procedure
 
@@ -21,19 +21,21 @@ Created by beej
 
 ### Commands
 
-- For Team Blitz, signups are started with "~plmax [desired number of players]". To end the signups, use "~plmax".
-- The game should start with a staff using "~minigame blitz new".
-- Use "~ttl list, 10, blitz" and "~ttl list, 10, blitzfinals" to check the current scores for the open and final rounds respectively.
-- When moving to the finals, a staff must use "~minigame blitz finals".
-- The finalists can be voiced and modchat can be turned on by a staff using "~pladd [finalist1], [finalist2], [finalist3], [finalist4]" followed by "~modchat on".
-- Once the game is finished a staff must use "~minigame blitz end".
-- If modchat was turned on, turn it off by an auth using "~plclear" and a staff using "~modchat off".
+- For Team Blitz, signups are started with `~plmax [desired number of players]`. To end the signups, use `~plmax`.
+- The game should start with a staff using `~minigame blitz new`.
+- Use `~ttl list, 10, blitz` and `~ttl list, 10, blitzfinals` to check the current scores for the open and final rounds respectively.
+- When moving to the finals, a staff must use `~minigame blitz finals`.
+- The finalists can be voiced and modchat can be turned on by a staff using `~pladd [finalist1], [finalist2], [finalist3], [finalist4]` followed by `~modchat on`.
+- Once the game is finished a staff must use `~minigame blitz end`.
+- If modchat was turned on, turn it off by an auth using `~plclear` and a staff using `~modchat off`.
+
+---
 
 # Team Blitz #
 
-Created by PikachuSean
+[Created by PikachuSean](https://docs.google.com/document/d/1-zcu74nlCZY3SLGVE3EhJIHu_yG05B2Afxx-SmsXnac/edit)
 
-- Users can join the game during signups by typing "/me in" in chat.
+- Users can join the game during signups by typing `/me in` in chat.
 - After signups, players divide themselves into teams of 2 to 4 players. The host compiles the team list and the names chosen by each team.
 - The first team to have one of their members post the correct answer in chat receives the BP and that team will receive two points.
 - The user who answers the question correctly must ask another question within 1 minute. Teammates are not allowed to answer their teams questions.
