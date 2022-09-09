@@ -8,7 +8,7 @@ Trivia Tracker (TT) is the most commonly played game in the Trivia room. In it, 
 If you get a question correct, you will get a point and receive BP (meaning it is your turn to ask a question). You will have five minutes to come up with a question to ask, that follows these general guidelines:
 
 - the answer should be short and factual (no long lists or subjective answers)
-- the answer should not be easy to find with PS commands (eg /dt and /ds)
+- the answer should not be easy to find with PS commands (eg ``/dt`` and ``/ds``)
 - other players should have a reasonable chance of knowing the answer without looking it up
 
 Our [official question rules](https://pstrivia.weebly.com/trivia-tracker.html) are more complicated than this, but use the simplified guidelines to start out and ask a Trivia auth if your question is valid when in doubt.
@@ -17,7 +17,7 @@ When you have come up with a question, ask it by sending it as bold text. This i
 
 ![TT Intro 1](/assets/images/tt-intro-1.png)
 
-If you don't want to ask a question, you can forfeit your chance to ask by using ``~bpopen`` and others will be allowed to claim the chance to ask. Keep in mind that this also forfeits the points obtained from asking questions.
+If you don't want to ask a question, you can forfeit your chance to ask (and the points you would gain from asking) by using ~bpopen and others will be allowed to claim the chance to ask. While we prefer asking questions to opening BP, you are never required to ask a question and are always free to open BP.
 
 ![TT Intro 2](/assets/images/tt-intro-2.png)
 
