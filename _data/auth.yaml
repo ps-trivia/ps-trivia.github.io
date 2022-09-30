@@ -8,8 +8,6 @@ ro:
           colour: "#c63b56"
         - name: Notater517
           colour: "#766fc1"
-        - name: pyro
-          colour: "#e84e11"
         - name: Struchni
           colour: "#cb356d"
 mod:
@@ -27,6 +25,11 @@ mod:
           colour: "#ba26b0"
         - name: Lucario•1582
           colour: "#965e36"
+        - name: magic communist
+          colour: "#be4b59"
+        - name: pyro
+          colour: "#e84e11"
+          note: "(formerly #)"
         - name: StrmSrg
           colour: "#0e5fd8"
         - name: Yech
@@ -48,8 +51,6 @@ driver:
           note: "(formerly #)"
         - name: Falcon2703
           colour: "#19b1a7"
-        - name: magic communist
-          colour: "#be4b59"
         - name: notcollintan
           colour: "#3d970c"
         - name: WarriorGallade
@@ -58,6 +59,8 @@ voice:
     users:
         - name: artemy burakh
           colour: "#16b0b6"
+        - name: blazeofvictory
+          colour: "#b13a9f"
         - name: CynicCyndaquil
           colour: "#ab6117"
         - name: Dot Comfey
