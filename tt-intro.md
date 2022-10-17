@@ -13,7 +13,7 @@ If you get a question correct, you will get a point and receive BP (meaning it i
 
 Our [official question rules](https://pstrivia.weebly.com/trivia-tracker.html) are more complicated than this, but use the simplified guidelines to start out and ask a Trivia auth if your question is valid when in doubt.
 
-When you have come up with a question, ask it by sending it as bold text. This is done by putting **\*\*two asterisks on each side of your question\*\***. Then, when someone says the answer, use the ``~yes`` command to let Jeopard-E know. And there it is, you've asked your first question!
+When you have come up with a question, ask it by sending it as bold text. This is done by putting **\*\*two asterisks on each side of your question\*\***. Then, when someone says the answer, use the ``~yes`` command to let Jeopard-E know. And there it is, you've asked your first question! Asking a question will also earn you a point (or two if you claimed BP).
 
 ![TT Intro 1](/assets/images/tt-intro-1.png)
 
