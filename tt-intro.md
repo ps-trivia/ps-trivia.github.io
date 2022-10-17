@@ -17,7 +17,7 @@ When you have come up with a question, ask it by sending it as bold text. This i
 
 ![TT Intro 1](/assets/images/tt-intro-1.png)
 
-If you don't want to ask a question, you can forfeit your chance to ask (and the points you would gain from asking) by using ~bpopen and others will be allowed to claim the chance to ask. While we prefer asking questions to opening BP, you are never required to ask a question and are always free to open BP.
+If you don't want to ask a question, you can forfeit your chance to ask (and the points you would gain from asking) by using ``~bpopen`` and others will be allowed to claim the chance to ask. While we prefer asking questions to opening BP, you are never required to ask a question and are always free to open BP.
 
 ![TT Intro 2](/assets/images/tt-intro-2.png)
 

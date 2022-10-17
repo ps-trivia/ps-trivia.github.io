@@ -53,11 +53,11 @@ As you can see, in the image above, the user has successfully bolded their quest
 
 ![How to answer 1](/assets/images/tt-how-to-answer-1.png)
 
-You’ve asked your question, made sure to bold it properly, but now a new challenge arises. “What do I do when somebody answers my question?”  you may ask. When somebody answers your question correctly, you use the **~yes command** to announce that they’re the winner! In the above image, the question asker would have to do **~yes Trivia User 2**, because they’re the first person to successfully answer the question.
+You’ve asked your question, made sure to bold it properly, but now a new challenge arises. “What do I do when somebody answers my question?”  you may ask. When somebody answers your question correctly, you use the ``~yes`` command to announce that they’re the winner! In the above image, the question asker would have to do ``~yes Trivia User 2``, because they’re the first person to successfully answer the question.
 
 ![How to answer 2](/assets/images/tt-how-to-answer-2.png)
 
-Keep in mind that the ~yes command only works if you spell the user’s name correctly. A good way to ensure that you always get it right is to type the first few letters of their name and press the TAB key to autocomplete!
+Keep in mind that the ``~yes`` command only works if you spell the user’s name correctly. A good way to ensure that you always get it right is to type the first few letters of their name and press the TAB key to autocomplete!
 
 (Note: If someone gives more answers than asked and all of them are still correct, they still should get the BP. However, should any of those answers be incorrect, then the answerer cannot receive the BP, as the answer then is wrong. See example below.)
 
@@ -66,7 +66,7 @@ Keep in mind that the ~yes command only works if you spell the user’s name cor
 
 #### I Don't Want to Ask a Question! How Do I Pass My Asker's Privilege to Someone Else?
 
-Sometimes, you will answer a question correctly, but you will not be able to think of a question, or simply will not want to ask. In this case, you will want to open the bp. **BP**, short for **B**aton **P**ass, denotes whose turn it is to ask a question. If it is your turn, and you no longer wish to ask a question, type the command **~bpopen** and voilà! It is no longer your turn! (Alternatively, ~openbp works as well!)
+Sometimes, you will answer a question correctly, but you will not be able to think of a question, or simply will not want to ask. In this case, you will want to open the bp. **BP**, short for **B**aton **P**ass, denotes whose turn it is to ask a question. If it is your turn, and you no longer wish to ask a question, type the command ``~bpopen`` and voilà! It is no longer your turn! (Alternatively, ``~openbp`` works as well!)
 
 ![How to openbp 1](/assets/images/tt-how-to-openbp-1.png)
 
@@ -78,15 +78,15 @@ Now that the bp has been opened, another user who wants to ask a question may sa
 
 #### I ~yes'd the Wrong Person! What Should I Do Now?
 
-Sometimes when asking a question, you may accidentally ~yes the wrong person.
+Sometimes when asking a question, you may accidentally ``~yes`` the wrong person.
 
 ![How to no 1](/assets/images/tt-how-to-no-1.png)
 
-Fear not! Simply alert that user and ask them to type the command **~tf** into the chat. This gives the bp back to you. Now, you can ~yes the correct user!
+Fear not! Simply alert that user and ask them to type the command ``~tf`` into the chat. This gives the bp back to you. Now, you can ``~yes`` the correct user!
 
 ![How to no 2](/assets/images/tt-how-to-no-2.png)
 
-If the person you gave the bp doesn’t respond for any reason, an auth (someone with +, %, @, #, &, or ~ next to their name) can also use ~no to give you the bp back:
+If the person you gave the bp doesn’t respond for any reason, an auth (someone with +, %, @, #, &, or ~ next to their name) can also use ``~no`` to give you the bp back:
 
 ![How to no 3](/assets/images/tt-how-to-no-3.png)
 
