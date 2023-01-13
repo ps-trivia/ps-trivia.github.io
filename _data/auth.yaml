@@ -4,10 +4,10 @@ ro:
     users:
         - name: Aegii
           colour: "#3f80bc"
-        - name: Grimm
-          colour: "#c63b56"
         - name: Notater517
           colour: "#766fc1"
+        - name: pyro
+          colour: "#e84e11"
         - name: Struchni
           colour: "#cb356d"
 mod:
@@ -21,15 +21,10 @@ mod:
           note: "(formerly #)"
         - name: FoundThenLost
           colour: "#4952f3"
-        - name: Hokatsuki
-          colour: "#ba26b0"
         - name: Lucario•1582
           colour: "#965e36"
         - name: magic communist
           colour: "#be4b59"
-        - name: pyro
-          colour: "#e84e11"
-          note: "(formerly #)"
         - name: StrmSrg
           colour: "#0e5fd8"
         - name: Yech
@@ -44,6 +39,8 @@ driver:
           colour: "#ab7533"
         - name: Bidoof_Overlord119
           colour: "#87923f"
+        - name: blazeofvictory
+          colour: "#b13a9f"
         - name: Christmas
           colour: "#6938ef"
         - name: deftinwolf
@@ -53,16 +50,15 @@ driver:
           colour: "#19b1a7"
         - name: notcollintan
           colour: "#3d970c"
+        - name: TeutonicSquire
+          colour: "#4c871c"
+          note: "(formerly @)"
         - name: WarriorGallade
           colour: "#8431e9"
 voice:
     users:
         - name: artemy burakh
           colour: "#16b0b6"
-        - name: blazeofvictory
-          colour: "#b13a9f"
-        - name: CynicCyndaquil
-          colour: "#ab6117"
         - name: Dot Comfey
           colour: "#c64040"
           note: "(formerly %)"
@@ -75,6 +71,8 @@ voice:
         - name: Garrett16
           colour: "#4b9c2b"
           note: "(formerly #)"
+        - name: Illusio
+          colour: "#2970c7"
         - name: KawaiiiiPotato
           colour: "#bd4c77"
           note: "(formerly %)"
@@ -86,9 +84,10 @@ voice:
         - name: ShadowSirens
           colour: "#a251bb"
           note: "(formerly %)"
-        - name: TeutonicSquire
-          colour: "#4c871c"
-          note: "(formerly @)"
+        - name: tapler
+          colour: "#b48122"
+        - name: yveltalrat
+          colour: "#d11f40"
 formerro:
     start: "<strong>"
     end: "</strong>"
@@ -101,6 +100,8 @@ formerro:
           colour: "#3e9d0c"
         - name: Dell
           colour: "#1673b6"
+        - name: Grimm
+          colour: "#c63b56"
         - name: Hugendugen
           colour: "#e22e94"
         - name: Jelandee
@@ -169,6 +170,8 @@ formermod:
           colour: "#0a9d87"
         - name: Gensokyo
           colour: "#67a456"
+        - name: Hokatsuki
+          colour: "#ba26b0"
         - name: Instruct
           colour: "#c84429"
         - name: Lagua
@@ -263,14 +266,14 @@ formerdriver:
           colour: "#618a0f"
         - name: HeracrossTheGreek
           colour: "#e07d1a"
-        - name: HeroicTobias
-          colour: "#1ca2cb"
         - name: jcdumassian
           colour: "#0eb8bb"
         - name: jegoro
           colour: "#0ba65e"
         - name: Jessilina
           colour: "#bc44a4"
+        - name: KawaiiiiPotato
+          colour: "#bd4c77"
         - name: King Chandelure
           colour: "#927f3f"
         - name: Kinkaida

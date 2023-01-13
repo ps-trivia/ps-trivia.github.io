@@ -1,4 +1,8 @@
 years:
+    - year: 2023
+      updates:
+          - date: January 9
+            text: "Pokemon Legends: Arceus, Pokemon Let's Go Pikachu, and Pokemon Let's Go Eevee are now considered side games. For examples of consequences, Pikachu-Starter and Baddy Bad can only be answers to questions where the context is given to be including side games, and Frostbite and Drowsy only exist in questions where the context is specified to include Pokemon Legends: Arceus."
     - year: 2022
       updates:
           - date: June 23
