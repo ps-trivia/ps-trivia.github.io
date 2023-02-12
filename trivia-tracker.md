@@ -384,7 +384,7 @@ Charizard would be correct if Trivia Asker specified the Japanese intro.
 
 ##### Fan Term Clause
 
-Well known fan terms will be acceptable for question askers to use when asking questions and are allowed to use discretion on whether to accept fan term answers or not. This document provides a non-exhaustive list of valid fan terms.
+Well known fan terms will be acceptable for question askers to use when asking questions and are allowed to use discretion on whether to accept fan term answers or not. [This document](https://docs.google.com/document/d/1TQGorhKGgpWdBi5A0Pb2a-LfVPKXeM-mg4kRfq0F6ao/edit) provides a non-exhaustive list of valid fan terms.
 
 ![Fan term 1](/assets/images/tt-fan-term-1.png)
 Askers, however, are not allowed to ask questions where only a fan term can be the answer.
@@ -485,17 +485,17 @@ A fully evolved Pokemon is a Pokemon that cannot evolve any further. It is at it
 #### Pseudo-Legendary
 
 For the purposes of Trivia Tracker, the term **pseudo-legendary** or **pseudo-legend** is understood to refer to the following Pokemon (but not their pre-evolutions):
-Dragonite, Tyranitar, Salamence, Metagross, Garchomp, Hydreigon, Goodra, Kommo-o, Dragapult
+Dragonite, Tyranitar, Salamence, Metagross, Garchomp, Hydreigon, Goodra, Kommo-o, Dragapult, Baxcalibur
 
 #### Legendary and Mythical Pokemon
 
 The following Pokemon are defined as **legendary** for the purposes of trivia (italicized are also **mythical**):
-Articuno, Zapdos, Moltres, Mewtwo, Raikou, Entei, Suicune, Lugia, Ho-Oh, Regirock, Regice, Registeel, Latias, Latios, Kyogre, Groudon, Rayquaza, Uxie, Mesprit, Azelf, Dialga, Palkia, Heatran, Regigigas, Giratina, Cresselia, Cobalion, Terrakion, Virizion, Tornadus, Thundurus, Reshiram, Zekrom, Landorus, Kyurem, Xerneas, Yveltal, Zygarde, Tapu Koko, Tapu Lele, Tapu Bulu, Tapu Fini, Type: Null, Silvally, Cosmog, Cosmoem, Solgaleo, Lunala, Necrozma, Zacian, Zamazenta, Eternatus, Kubfu, Urshifu, Regieleki, Regidrago, Glastrier, Spectrier, Calyrex, Enamorus, *Mew*, *Celebi*, *Jirachi*, *Deoxys*, *Manaphy*, *Phione*, *Darkrai*, *Shaymin*, *Arceus*, *Victini*, *Keldeo*, *Meloetta*, *Genesect*, *Diancie*, *Hoopa*, *Volcanion*, *Magearna*, *Marshadow*, *Zeraora*, *Meltan*, *Melmetal*, *Zarude*
+Articuno, Zapdos, Moltres, Mewtwo, Raikou, Entei, Suicune, Lugia, Ho-Oh, Regirock, Regice, Registeel, Latias, Latios, Kyogre, Groudon, Rayquaza, Uxie, Mesprit, Azelf, Dialga, Palkia, Heatran, Regigigas, Giratina, Cresselia, Cobalion, Terrakion, Virizion, Tornadus, Thundurus, Reshiram, Zekrom, Landorus, Kyurem, Xerneas, Yveltal, Zygarde, Tapu Koko, Tapu Lele, Tapu Bulu, Tapu Fini, Type: Null, Silvally, Cosmog, Cosmoem, Solgaleo, Lunala, Necrozma, Zacian, Zamazenta, Eternatus, Kubfu, Urshifu, Regieleki, Regidrago, Glastrier, Spectrier, Calyrex, Enamorus, Koraidon, Miraidon, Chien-Pao, Chi-Yu, Ting-Lu, Wo-Chien, *Mew*, *Celebi*, *Jirachi*, *Deoxys*, *Manaphy*, *Phione*, *Darkrai*, *Shaymin*, *Arceus*, *Victini*, *Keldeo*, *Meloetta*, *Genesect*, *Diancie*, *Hoopa*, *Volcanion*, *Magearna*, *Marshadow*, *Zeraora*, *Meltan*, *Melmetal*, *Zarude*
 
 #### Starter Pokemon
 
 A **starter** in the context of the games is a Pokemon bestowed on the player character at the beginning of a game. Owing to main series clause, any question asking about “starters,” unless otherwise specified, will be interpreted as describing the following Pokemon and their evolutions, all forms excluded:
-Bulbasaur, Charmander, Squirtle, Pikachu*, Chikorita, Cyndaquil, Totodile, Treecko, Torchic, Mudkip, Piplup, Chimchar, Turtwig, Snivy, Tepig, Oshawott, Chespin, Fennekin, Froakie, Rowlet, Litten, Popplio, Pikachu-Starter, Eevee-Starter, Grookey, Scorbunny, Sobble
+Bulbasaur, Charmander, Squirtle, Pikachu*, Chikorita, Cyndaquil, Totodile, Treecko, Torchic, Mudkip, Piplup, Chimchar, Turtwig, Snivy, Tepig, Oshawott, Chespin, Fennekin, Froakie, Rowlet, Litten, Popplio, Grookey, Scorbunny, Sobble, Sprigatito, Fuecoco, Quaxly
 
 *Raichu is not a starter because the Pikachu you receive as a starter cannot evolve into Raichu.
 
