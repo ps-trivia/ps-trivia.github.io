@@ -39,6 +39,7 @@ A full guide on how Jeopard-E works can be found [here](https://drive.google.com
 So it’s your turn to ask a question, but you don’t seem to know how to. The first thing you must remember is to **always bold your questions**. Otherwise, it is unclear if you have asked a question or not. Also, the room bot (Jeopard-E) won’t be able to detect that you’ve asked a question. **The way to bold your question is to surround the text with 2 asterisks**. This will ensure any message within the asterisks will be bolded.
 
 ![How to ask 1](/assets/images/tt-how-to-ask-1.png)
+
 *One must not put spaces between the asterisks and the question.*
 
 But wait! What has happened? The bold didn’t work properly in the image above. This is because the user has left spaces between the asterisks (\*) and the question. This will result in the bold not working.

@@ -121,7 +121,9 @@ Before submitting a question, **please use /trivia search qs to check if similar
 
 If you want your search to be case sensitive, use the **/trivia casesensitivesearch** command.
 
-### Do not put quotation marks around titles.
+### Do not format titles.
+
+This includes quotation marks, italics, etc.
 
 > **Wrong:** This person directed <span style="color:red">“Star Wars.”</span>
 > 
@@ -154,7 +156,7 @@ Do not submit joke or troll questions; these will certainly be rejected.
 We aim for a balance of easy, medium, and hard in all four categories. We don't want the deck stacked in any particular direction.  
 The ROs have the final say in what is obscure.  
 Formatting doesn’t matter in answers. Spaces, punctuation, and capitalization aren’t considered for answers.  
-To see which answers should be accepted for questions asking for countries, see this document. 
+To see which answers should be accepted for questions asking for countries, see [this document](https://docs.google.com/document/d/1I1_xIOD8H1AOhokroWrt1evSd7b-VqXQvm77xCCL0-o/edit). 
 
 # Alright, I got voice.  What now?
 
@@ -162,7 +164,7 @@ First off, congratulations. Now onto the important stuff.
 
 The first step is to categorize your questions into our four utilized categories if you haven't already.  These four categories are Pokemon, Arts and Entertainment (abbreviated as ae when submitting), Science and Geography (sg), and Society and Humanities (sh).  If you're unsure which category your question fits into feel free to ask for opinions from staff or other contributors.
 
-Now that you have done that, you can finally submit questions using the command **/trivia submit [category] | [question] | [answer1], [answer2] ... [answer]**.
+Now that you have done that, you can finally submit questions using the command ``**/trivia submit [category] | [question] | [answer1], [answer2] ... [answer]**``.
 
 # Banned Question Types:
 
