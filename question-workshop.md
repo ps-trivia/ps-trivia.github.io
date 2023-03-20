@@ -180,5 +180,6 @@ This special Question Workshop event is a competition to see who can submit the 
 Question Workshop Submission Contest Winners:  
 QWSC #1(SG/SH): ConicsVGC   
 QWSC #2(SG/SH): Beedrill-Mega
+QWSC #3 (AE/SG/SH): Magic ☭ Communist
 
 **If you have any questions about questions, contact any of the staff in the Question Workshop. We’re happy to help!**
