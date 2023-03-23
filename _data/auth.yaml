@@ -21,8 +21,6 @@ mod:
         - name: Darthikyu
           colour: "#b53312"
           note: "(formerly #)"
-        - name: FoundThenLost
-          colour: "#4952f3"
         - name: Lucario•1582
           colour: "#965e36"
         - name: magic communist
@@ -68,6 +66,9 @@ voice:
           note: "(formerly @)"
         - name: FORTNlTE
           colour: "#b04cb9"
+        - name: FoundThenLost
+          colour: "#4952f3"
+          note: "(formerly @)"
         - name: Garrett16
           colour: "#4b9c2b"
           note: "(formerly #)"

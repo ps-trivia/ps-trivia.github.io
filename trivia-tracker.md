@@ -362,7 +362,7 @@ Arceus is not counted as a Fairy-type.
 
 ##### Main Series Clause
 
-All questions about Pokemon games are in the context of the main series games. If the answer to your question comes from a side game and could apply to main series mechanics/characters, you must mention which side game you're referring to in your question. Pokemon Let's Go and Pokemon Legends: Arceus are main series games.
+All questions about Pokemon games are in the context of the main series games. If the answer to your question comes from a side game and could apply to main series mechanics/characters, you must mention which side game you're referring to in your question. Pokemon Let's Go and Pokemon Legends: Arceus are not main series games.
 
 Furthermore, all questions will assume the National Dex, which includes new Pokemon introduced in Pokemon Legends: Arceus. Therefore, Ursaring would be NFE and Eviolite would be treated as if it works on Ursaring. Asking about moves introduced in Pokemon Legends: Arceus without specifying the context of Pokemon Legends: Arceus would also be allowed. However, all mechanics, such as battle mechanics, item mechanics, move mechanics, etc. would default to the context of the current VGC game, which would currently be Pokemon Sword and Shield.
 
