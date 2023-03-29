@@ -39,7 +39,6 @@ A full guide on how Jeopard-E works can be found [here](https://drive.google.com
 So it’s your turn to ask a question, but you don’t seem to know how to. The first thing you must remember is to **always bold your questions**. Otherwise, it is unclear if you have asked a question or not. Also, the room bot (Jeopard-E) won’t be able to detect that you’ve asked a question. **The way to bold your question is to surround the text with 2 asterisks**. This will ensure any message within the asterisks will be bolded.
 
 ![How to ask 1](/assets/images/tt-how-to-ask-1.png)
-
 *One must not put spaces between the asterisks and the question.*
 
 But wait! What has happened? The bold didn’t work properly in the image above. This is because the user has left spaces between the asterisks (\*) and the question. This will result in the bold not working.
@@ -97,13 +96,13 @@ Hopefully, this section will give inspiration, or at least help you understand w
 Let's start with an example of a good one:
 
 ![How to ask good 1](/assets/images/tt-how-to-ask-good-1.png)
-(Answer: Member Card)
+*(Answer: Member Card)*
 
 Look at the first part of the question: "This ... Key Item" tells readers exactly what you're asking for. You want the name of the particular item. This should always be clear, otherwise you'll have a hard time getting people to understand the question. The middle part of the sentence provides context – Diamond, Pearl, and Platinum are the games which your question is asking about. The last part describes the answer. There are many Key Items in Diamond, Pearl, and Platinum, so you have to give enough information for readers to single-out the particular Key Item you're asking for.
 Here's another example, this time with the question reorganized:
 
 ![How to ask good 2](/assets/images/tt-how-to-ask-good-2.png)
-(Answer: Plusle)
+*(Answer: Plusle)*
 
 Notice how the question still identifies what it's asking for ("this Pokemon") and provides context ("In Pokemon Ranger") and information ("Solana's partner"). All good questions identify these three components.
 
@@ -185,10 +184,10 @@ The topic of your question must have trivial significance, and cannot depend onl
 RDEs (reworded dex entries) are questions that ask for a Pokemon based on partially rephrased or reordered information from its dex entry. These questions are allowed as long as they feature a recognizable phrase from the original entry, mention that the content comes from the Pokedex, and are not reworded to the point where they become puzzles or treasure hunts. This will be determined by auth discretion.
 
 ![RDE 1](/assets/images/tt-rde-1.png)
-Minor changes to the dex entry make this question substantially more difficult, and it is unclear without knowing the answer how many artistic liberties the author has taken with the reword.
+*Minor changes to the dex entry make this question substantially more difficult, and it is unclear without knowing the answer how many artistic liberties the author has taken with the reword.*
 
 ![RDE 2](/assets/images/tt-rde-2.png)
-This question, however, is legal, as it contains a directly-quoted, recognizable phrase from the entry.
+*This question, however, is legal, as it contains a directly-quoted, recognizable phrase from the entry.*
 
 ##### Question From Other Showdown Rooms
 
@@ -207,10 +206,10 @@ These types of questions are also banned:
 This includes subjective questions, fan speculation/unconfirmed rumors, and questions with varying degrees of correctness. There must be an objective, non-negotiable, undebatable answer to your question.
 
 ![Unverifiable 1](/assets/images/tt-unverifiable-1.png)
-Notice the word “allegedly” in the question. That’s a tip that this question is not verifiable.
+*Notice the word “allegedly” in the question. That’s a tip that this question is not verifiable.*
 
 ![Unverifiable 2](/assets/images/tt-unverifiable-2.png)
-GameFreak does not officially define the colors of shinies, and people’s descriptions of colors can vary.
+*GameFreak does not officially define the colors of shinies, and people’s descriptions of colors can vary.*
 
 ##### Puzzle-type Questions
 
@@ -223,14 +222,14 @@ This includes codes, riddles, and other question types that do not count as triv
 In Trivia Tracker, asking a question implies that it has a working answer. If the question is asking for a number, an answer of 'zero' is valid and does not necessarily make the question a trick question. Additionally, any answer that requires a question to be interpreted as a trick question is not valid.
 
 ![Trick questions](/assets/images/tt-trick-questions.png)
-This is a trick question, because the answer is “nobody yet.”
+*This is a trick question, because the answer is “nobody yet.”*
 
 ##### Multiple Questions in One
 
 When you have the BP, you get to ask one question, and one question only. These can easily be fixed by simply picking one of the questions to ask, and saving the other for another time. However, specifications ("include the trainer of a Pokemon", "include the country of a city", etc.) are allowed.
 
 ![Multiple questions](/assets/images/tt-multiple-questions.png)
-This veto could have been avoided by asking only one of these questions.
+*This veto could have been avoided by asking only one of these questions.*
 
 ##### Multiple Choice
 
@@ -250,7 +249,7 @@ All questions that require calculation (simple or complex) or translation from o
 Questions that are too general are not allowed and will be vetoed.
 
 ![Too broad](/assets/images/tt-too-broad.png)
-This question is far too open-ended to constitute trivia.
+*This question is far too open-ended to constitute trivia.*
 
 ##### Explanations
 
@@ -284,7 +283,7 @@ In an effort to diversify the types of questions asked in Trivia Tracker, **we o
 **NOTE: This does not apply to Pokemon.**
 
 ![Three in five](/assets/images/tt-three-in-five.png)
-This question is normally acceptable, but it was vetoed because it was the fourth geography question out of five.
+*This question is normally acceptable, but it was vetoed because it was the fourth geography question out of five.*
 
 ##### Obscurity Clause
 
@@ -300,21 +299,21 @@ Topics that are discouraged due to being prone to obscurity include: YouTube vid
 If a question sharply cuts chat activity for an inordinate period of time because no user can answer it, it is at risk of being vetoed to keep the chat and questions flowing smoothly. The standard limit is 5 minutes without answer, after which it is up to the discretion of auth.
 
 ![Chat-killing](/assets/images/tt-chat-killing.png)
-Notice the time stamps; nobody answered for five minutes straight, hence the veto. (Note: Smeargle is not an acceptable answer to this question. You will read why in the next section.)
+*Notice the time stamps; nobody answered for five minutes straight, hence the veto. (Note: Smeargle is not an acceptable answer to this question. You will read why in the next section.)*
 
 ##### Context Clause
 
 If the context of a question is not Pokemon or immediately apparent, please state it in the question, or it will likely be vetoed.
 
 ![Context](/assets/images/tt-context.png)
-There is no way to tell which game this question is asking about, therefore it is impossible to answer.
+*There is no way to tell which game this question is asking about, therefore it is impossible to answer.*
 
 ##### Boldfail Clause
 
 A question is only valid if it’s been successfully bolded. If you ask a question, but don’t write it in bold, you have five seconds to correct the bold, or it will be vetoed. Auth may choose not to veto for this if it is the user's first time asking a question in the room. 
 
 ![Boldfail](/assets/images/tt-boldfail.png)
-As you can see from the time stamps, Trivia User failed to fix the bold within 5 seconds.
+*As you can see from the time stamps, Trivia User failed to fix the bold within 5 seconds.*
 
 ##### Smogon Clause
 
@@ -339,7 +338,7 @@ In addition to the regular rules for asking questions, there are also some claus
 Unless stated otherwise in the question, answers involving the use of glitches/hacks are not valid.
 
 ![Illigitimacy](/assets/images/tt-illegitimacy.png)
-Missingno is technically correct, but it is not an acceptable answer since it is obtained through glitches.
+*Missingno is technically correct, but it is not an acceptable answer since it is obtained through glitches.*
 
 Answers that are unreleased are also counted as illegitimate until they are released in a main series game. The only exceptions to this are Meltan and Melmetal.
 
@@ -348,17 +347,17 @@ Answers that are unreleased are also counted as illegitimate until they are rele
 For the purposes of Trivia Tracker, Smeargle can only learn Sketch and specific event moves that it learns without using Sketch.
 
 ![Smeargle 1](/assets/images/tt-smeargle-1.png)
-Smeargle is not a viable answer as it can only learn Burn-Up by using Sketch.
+*Smeargle is not a viable answer as it can only learn Burn-Up by using Sketch.*
 
 ![Smeargle 2](/assets/images/tt-smeargle-2.png)
-Smeargle is a viable answer here because it can learn Spore through an event.
+*Smeargle is a viable answer here because it can learn Spore through an event.*
 
 ##### Ambiguous Type Clause
 
 Pokemon and moves that can be multiple types are counted as their default type unless specifically stated otherwise in the question. For example, Arceus and Silvally are considered Normal-type, Revelation Dance and Hidden Power are considered Normal-type, and so on.
 
 ![Ambiguous type](/assets/images/tt-ambiguous-type.png)
-Arceus is not counted as a Fairy-type.
+*Arceus is not counted as a Fairy-type.*
 
 ##### Main Series Clause
 
@@ -367,27 +366,28 @@ All questions about Pokemon games are in the context of the main series games. I
 Furthermore, all questions will assume the National Dex, which includes new Pokemon introduced in Pokemon Legends: Arceus. Therefore, Ursaring would be NFE and Eviolite would be treated as if it works on Ursaring. Asking about moves introduced in Pokemon Legends: Arceus without specifying the context of Pokemon Legends: Arceus would also be allowed. However, all mechanics, such as battle mechanics, item mechanics, move mechanics, etc. would default to the context of the current VGC game, which would currently be Pokemon Sword and Shield.
 
 ![Main series](/assets/images/tt-main-series.png)
-Skyridge Machamp has the ability Immunity in the TCG, but Zangoose counts because of Main Series Clause.
+*Skyridge Machamp has the ability Immunity in the TCG, but Zangoose counts because of Main Series Clause.*
 
 ##### Recency Clause
 
 All Pokemon questions are in the context of the most recently released game(s), unless otherwise noted in the question.
 
 ![Recency](/assets/images/tt-recency.png)
-Regardless of the asker’s intentions, the question must go to Trivia User 2, due to Recency Clause.
+*Regardless of the asker’s intentions, the question must go to Trivia User 2, due to Recency Clause.*
 
 ##### English Anime Clause
 
 All questions are in the context of the English version of the Pokemon anime, which airs after the Japanese anime, unless otherwise specified.
 
 ![English anime](/assets/images/tt-english-anime.png)
-Charizard would be correct if Trivia Asker specified the Japanese intro.
+*Charizard would be correct if Trivia Asker specified the Japanese intro.*
 
 ##### Fan Term Clause
 
 Well known fan terms will be acceptable for question askers to use when asking questions and are allowed to use discretion on whether to accept fan term answers or not. [This document](https://docs.google.com/document/d/1TQGorhKGgpWdBi5A0Pb2a-LfVPKXeM-mg4kRfq0F6ao/edit) provides a non-exhaustive list of valid fan terms.
 
 ![Fan term 1](/assets/images/tt-fan-term-1.png)
+
 Askers, however, are not allowed to ask questions where only a fan term can be the answer.
 
 ![Fan term 2](/assets/images/tt-fan-term-2.png)
@@ -424,12 +424,12 @@ Single typos are the following:
 The total number of typos in your answer is the fewest number of the above steps needed to change it into the correct answer.
 
 ![Spelling 1](/assets/images/tt-spelling-1.png)
-“Wrasaw” is one typo away from Warsaw. Therefore, Trivia User 2 gets BP.
+*“Wrasaw” is one typo away from Warsaw. Therefore, Trivia User 2 gets BP.*
 
 **NOTE: There are exceptions--particularly if the answer that’s one/two letters off would constitute a properly-spelt, different answer by itself.**
 
 ![Spelling 2](/assets/images/tt-spelling-2.png)
-Despite only being one letter off, Woobat is a separate incorrect answer from Swoobat; therefore, Trivia User 2 is correct.
+*Despite only being one letter off, Woobat is a separate incorrect answer from Swoobat; therefore, Trivia User 2 is correct.*
 
 ##### One Line Clause
 
@@ -442,11 +442,12 @@ Multiple answers to questions must ​be on one line in order for your answers t
 If you want the full name of the person you’re asking for in your question you must specify when asking your question otherwise just answering with a last name is acceptable. Questions asking for a full name can be answered with just a first and last name correctly unless the person is known by one or more middle names or initials as well. If an asker is specifically looking for an answer that includes middle names, an alternate name, or prefixes/suffixes, they must specify this in the question ahead of time.
 
 ![Name 1](/assets/images/tt-name-1.png)
-There is one US President with the last name Lincoln; therefore, Trivia Asker must accept “Lincoln.”
+*There is one US President with the last name Lincoln; therefore, Trivia Asker must accept “Lincoln.”*
 
 **NOTE: There are exceptions to this--particularly if someone is known primarily by their first name, or if there are two people with the same last name who are famous for the same thing.**
+
 ![Name 2](/assets/images/tt-name-2.png)
-The asker may use discretion and only accept “FDR” or “Franklin Roosevelt,” because of President Theodore Roosevelt.
+*The asker may use discretion and only accept “FDR” or “Franklin Roosevelt,” because of President Theodore Roosevelt.*
 
 ### Glossary of Pokemon Term Definitions
 
