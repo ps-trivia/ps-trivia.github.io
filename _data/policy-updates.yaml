@@ -1,6 +1,8 @@
 years:
     - year: 2023
       updates:
+          - date: March 30
+            text: "All questions will assume the National Dex, which includes new Pokemon introduced in Pokemon Legends: Arceus. Therefore, Ursaring would be NFE and Eviolite would be treated as if it works on Ursaring. Asking about moves introduced in Pokemon Legends: Arceus without specifying the context of Pokemon Legends: Arceus would also be allowed. However, all mechanics, such as battle mechanics, item mechanics, move mechanics, etc. would default to the context of the current VGC game, which would currently be Pokemon Scarlet and Violet."
           - date: January 9
             text: "Pokemon Legends: Arceus, Pokemon Let's Go Pikachu, and Pokemon Let's Go Eevee are now considered side games. For examples of consequences, Pikachu-Starter and Baddy Bad can only be answers to questions where the context is given to be including side games, and Frostbite and Drowsy only exist in questions where the context is specified to include Pokemon Legends: Arceus."
     - year: 2022
