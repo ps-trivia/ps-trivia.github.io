@@ -12,6 +12,11 @@
         link: /duel.html#titanomachy
 - name: Tour Duel
   link: /tour-duel.html
+- name: Happy Hour
+  link: /happy-hour.html
+  subgames:
+      - name: Sad Hour
+        link: /happy-hour.html#sad-hour
 - name: Dodgeball
   link: /dodgeball.html
 - name: Team Traitor
