@@ -4,6 +4,8 @@ ro:
     users:
         - name: Aegii
           colour: "#3f80bc"
+        - name: blazeofvictory
+          colour: "#b13a9f"
         - name: Notater517
           colour: "#766fc1"
         - name: pyro
@@ -16,17 +18,19 @@ mod:
     users:
         - name: Annika
           colour: "#7a4ae3"
-        - name: blazeofvictory
-          colour: "#b13a9f"
         - name: Darthikyu
           colour: "#b53312"
           note: "(formerly #)"
+        - name: Falcon2703
+          colour: "#19b1a7"
         - name: Lucario•1582
           colour: "#965e36"
         - name: magic communist
           colour: "#be4b59"
         - name: StrmSrg
           colour: "#0e5fd8"
+        - name: WarriorGallade
+          colour: "#8431e9"
         - name: Yech
           colour: "#658d25"
         - name: yeet dab xd
@@ -39,33 +43,37 @@ driver:
           colour: "#ab7533"
         - name: Bidoof_Overlord119
           colour: "#87923f"
-        - name: Christmas
-          colour: "#6938ef"
         - name: deftinwolf
           colour: "#3857f2"
           note: "(formerly #)"
-        - name: Falcon2703
-          colour: "#19b1a7"
+        - name: FORTNlTE
+          colour: "#b04cb9"
+        - name: Mystiphox
+          colour: "#2d8f34"
         - name: TeutonicSquire
           colour: "#4c871c"
           note: "(formerly @)"
-        - name: WarriorGallade
-          colour: "#8431e9"
 voice:
     users:
-        - name: artemy burakh
-          colour: "#16b0b6"
+        - name: CDman
+          colour: "#a94790"
+        - name: Christmas
+          colour: "#6938ef"
+          note: "(formerly %)"
+        - name: DanDaMan99
+          colour: "#997a38"
+          note: "(formerly @)"
         - name: Dot Comfey
           colour: "#c64040"
           note: "(formerly %)"
         - name: ElbowSkinn
           colour: "#779825"
           note: "(formerly @)"
+        - name: fearfire22
+          colour: "#ab23c0"
         - name: Fmaj7
           colour: "#b620d4"
           note: "(formerly @)"
-        - name: FORTNlTE
-          colour: "#b04cb9"
         - name: FoundThenLost
           colour: "#4952f3"
           note: "(formerly @)"
@@ -74,11 +82,6 @@ voice:
           note: "(formerly #)"
         - name: Illusio
           colour: "#2970c7"
-        - name: KawaiiiiPotato
-          colour: "#bd4c77"
-          note: "(formerly %)"
-        - name: Mystiphox
-          colour: "#2d8f34"
         - name: notcollintan
           colour: "#3d970c"
         - name: Qui-Gon the Flygon
@@ -167,8 +170,6 @@ formermod:
           colour: "#d95e21"
         - name: Dazelel
           colour: "#328169"
-        - name: DanDaMan99
-          colour: "#997a38"
         - name: Dodmen
           colour: "#0a9d87"
         - name: Gensokyo
@@ -243,8 +244,6 @@ formerdriver:
     users:
         - name: Amber & Crystal
           colour: "#b739c3"
-        - name: Andrew
-          colour: "#349d44"
         - name: Andy >_>
           colour: "#dd75d5"
         - name: Axamin
