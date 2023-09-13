@@ -224,6 +224,13 @@ In Trivia Tracker, asking a question implies that it has a working answer. If th
 ![Trick questions](/assets/images/tt-trick-questions.png)
 *This is a trick question, because the answer is “nobody yet.”*
 
+##### Answer in Question (AIQ)
+
+A question is allowed to contain its own answer, but it cannot imply or state that it does. 
+
+![AIQ](/assets/images/tt-aiq.png)
+*This question is allowed because while Battle appears in the question, it is not clear that it should be the answer.*
+
 ##### Multiple Questions in One
 
 When you have the BP, you get to ask one question, and one question only. These can easily be fixed by simply picking one of the questions to ask, and saving the other for another time. However, specifications ("include the trainer of a Pokemon", "include the country of a city", etc.) are allowed.
