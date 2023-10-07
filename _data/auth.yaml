@@ -8,8 +8,6 @@ ro:
           colour: "#b13a9f"
         - name: Notater517
           colour: "#766fc1"
-        - name: pyro
-          colour: "#e84e11"
         - name: Struchni
           colour: "#cb356d"
 mod:
@@ -41,8 +39,11 @@ driver:
     users:
         - name: Beedrill-Mega
           colour: "#ab7533"
-        - name: Bidoof_Overlord119
-          colour: "#87923f"
+        - name: CDman
+          colour: "#a94790"
+        - name: DanDaMan99
+          colour: "#997a38"
+          note: "(formerly @)"
         - name: deftinwolf
           colour: "#3857f2"
           note: "(formerly #)"
@@ -55,14 +56,9 @@ driver:
           note: "(formerly @)"
 voice:
     users:
-        - name: CDman
-          colour: "#a94790"
         - name: Christmas
           colour: "#6938ef"
           note: "(formerly %)"
-        - name: DanDaMan99
-          colour: "#997a38"
-          note: "(formerly @)"
         - name: Dot Comfey
           colour: "#c64040"
           note: "(formerly %)"
@@ -77,13 +73,13 @@ voice:
         - name: FoundThenLost
           colour: "#4952f3"
           note: "(formerly @)"
-        - name: Garrett16
-          colour: "#4b9c2b"
-          note: "(formerly #)"
         - name: Illusio
           colour: "#2970c7"
         - name: notcollintan
           colour: "#3d970c"
+        - name: pyro
+          colour: "#e84e11"
+          note: "(formerly #)"
         - name: Qui-Gon the Flygon
           colour: "#ce0c12"
           note: "(formerly %)"
@@ -92,8 +88,8 @@ voice:
           note: "(formerly %)"
         - name: tapler
           colour: "#b48122"
-        - name: yveltalrat
-          colour: "#d11f40"
+        - name: waterhoe
+          colour: "#3ea875"
 formerro:
     start: "<strong>"
     end: "</strong>"
@@ -106,6 +102,8 @@ formerro:
           colour: "#3e9d0c"
         - name: Dell
           colour: "#1673b6"
+        - name: Garrett16
+          colour: "#4b9c2b"
         - name: Grimm
           colour: "#c63b56"
         - name: Hugendugen
@@ -248,6 +246,8 @@ formerdriver:
           colour: "#dd75d5"
         - name: Axamin
           colour: "#a46646"
+        - name: Bidoof_Overlord119
+          colour: "#87923f"
         - name: BoltSapphire
           colour: "#54a40a"
         - name: chillmf
