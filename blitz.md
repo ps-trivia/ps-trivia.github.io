@@ -14,20 +14,19 @@ layout: default
 - When a question is answered correctly, the player who answered it gains two points, and they must ask the next question.
 - The asker has one minute to ask a valid question. If they fail to ask a question or if their question gets vetoed, they lose the two points they had earned and the host asks the next question.
 - When a player asks a question, if nobody answers correctly within one minute, the asker also loses two points, and the host asks another question.
-- Once someone scores 8 points, they become one of the game’s four finalists. Their score is erased and they can no longer ask/answer in the open round. The host then asks a tossup to continue the game.
+- Once someone scores 8 points, they become one of the game’s four finalists. They can no longer ask/answer in the open round. The host then asks a tossup to continue the game.
 - Once four people reach the score cap of 8, all but the top four scoring players are eliminated and the game enters the final round.
 - In the final round, the scores are reset and the players battle to be the first to reach 10 points.
 - In the event that multiple players are disqualified or leave, creating an untenable final round (such as one with only two active players), the final TT blitz round will be decided with a best of five with questions supplied by the host.
 
 ### Commands
 
+- The game should start with a staff using `~mgnew blitz`. The host of the game can then be set with `~sethost [user]`.
 - For Team Blitz, signups are started with `~plmax [desired number of players]`. To end the signups, use `~plmax`.
-- The game should start with a staff using `~minigame blitz new`.
-- Use `~ttl list, 10, blitz` and `~ttl list, 10, blitzfinals` to check the current scores for the open and final rounds respectively.
-- When moving to the finals, a staff must use `~minigame blitz finals`.
+- Use `~showpoints` to check the current scores.
+- When moving to the finals, a staff must use `~mg finals` (or `~mg hyperfinals` for finals with a 30-second timer).
 - The finalists can be voiced and modchat can be turned on by a staff using `~pladd [finalist1], [finalist2], [finalist3], [finalist4]` followed by `~modchat on`.
-- Once the game is finished a staff must use `~minigame blitz end`.
-- If modchat was turned on, turn it off by an auth using `~plclear` and a staff using `~modchat off`.
+- Once the game is finished a staff must use `~mgend`.
 
 ---
 
