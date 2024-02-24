@@ -131,7 +131,7 @@ Outside of such errors, there are three general reasons for vetoing a question: 
 
 #### Auth Discretion
 
-It should be noted that the following rules dictate which questions must be vetoed. However, **users with voice (+) and higher are at liberty to veto any question they deem problematic on an individual basis**. This is to maximize fun and keep the game running smoothly with integrity. In addition, questions that are overasked may be banned by auth on a day-to-day basis. If you disagree with a veto, please notify the appropriate auth and respectfully explain your point of view to them. They may reverse their decision, but are not obligated to. We always strive to make the game fair, and will not veto questions arbitrarily.
+Auth (users with voice (+) and higher ranks) reserve the right to veto or temporarily ban any questions and topics they feel are unhealthy for the game. Vetoes by auth discretion are final unless overturned by other auth. If your question was vetoed, auth are more than happy to help you in PMs to craft your next question. This is to maximize fun and keep the game running smoothly with integrity. If you disagree with a veto, please notify the appropriate auth and respectfully explain your point of view to them. They may reverse their decision, but are not obligated to. We always strive to make the game fair, and will not veto questions arbitrarily.
 
 #### Misc
 
@@ -145,6 +145,10 @@ Still confused about how to play Trivia, or anything else not covered in this gu
 
 There are certain topics that cannot be asked about in Trivia for a number of reasons. If you ask about any of the topics below, the question will be vetoed.
 
+##### Content against Pokemon Showdown Global Rules
+
+Questions and answers must abide by the [Pokemon Showdown Global Rules](https://pokemonshowdown.com/rules). This includes sexually inappropriate/explicit content, as well as questions about Pokemon ROM Hacks.
+
 ##### Restricted Content
 
 For accessibility purposes, any question that requires you to watch a Youtube or Twitch video/stream, or another external source such as a podcast is not allowed.
@@ -157,27 +161,33 @@ Questions about Pokemon Showdown! are not allowed, whenever they are asking abou
 
 ![Pokemon showdown](/assets/images/tt-pokemon-showdown.png)
 
-##### Fan-made Content and ROM Hacks
+##### Fan-made Content
 
-Fan-made content, including unauthorised derivative content of original works (e.g. Rom Hacks, fanfiction) and community-created content are not allowed in Trivia, unless it has a large and official presence that supersedes it simply being a derivative work. This doesn't include translations of content with no official translations (e.g. Mother 3).
+Fan-made content, including unauthorised derivative content of original works (e.g. fanfiction) and community-created content are not allowed in Trivia, unless it has a large and official presence that supersedes it simply being a derivative work. This doesn't include translations of content with no official translations (e.g. Mother 3).
 
 ![Fan-made content](/assets/images/tt-fan-made.png)
 
-##### Spoilers
+##### Spoilers and News/Events
 
-Questions with spoilers are only allowed one month after the worldwide release of their respective media. It is up to auth discretion to determine what exactly constitutes a spoiler, but generally this includes plot-sensitive information and any details by which one would reasonably expect to be surprised while consuming the media organically.
+Questions with spoilers are only allowed one month after the worldwide release of their respective media. It is up to auth discretion to determine what exactly constitutes a spoiler, but generally this includes plot-sensitive information and any details by which one would reasonably expect to be surprised while consuming the media organically. Questions about recent events, such as breaking news and sporting events, cannot be asked until 12 hours after the news has broken or the event has occurred.
 
 ![Spoilers](/assets/images/tt-spoilers.png)
 
-##### News/Events
-
-Questions about recent events, such as breaking news and sporting events, cannot be asked until 12 hours after the news has broken or the event has occurred.
-
 ##### Not Trivia
 
-The topic of your question must have trivial significance, and cannot depend only on memes.
+The topic of your question must have trivial significance, and cannot depend only on memes. This means calculation, translation (with the exception of names and Pokemon-related terms with official translations), and questions that are too broad or easy may be vetoed by an auth at their discretion. Multiple Choice and True or False questions are also considered too easy as answerers can spam-guess options and get it correct.
 
 ![Not trivia](/assets/images/tt-not-trivia.png)
+*The subject of this question is the Bee Movie script, which is a meme.*
+![Calculations](/assets/images/tt-calculations.png)
+*The answer to this question can only be obtained by calculation, and it not trivially significant. Note that questions about mathematical constants and famous equations are legal.*
+![Translations](/assets/images/tt-translations.png)
+*The translation of a common phrase into another language is not trivially significant. However, questions about the name of a Pokemon in another language (for example) are legal.*
+![Too broad](/assets/images/tt-too-broad.png)
+*This question is far too open-ended to constitute trivia.*
+![Multiple choice](/assets/images/tt-multiple-choice.png)
+*Answerers can spam-guess all of Articuno, Zapdos and Moltres and get it correct.*
+
 
 ##### Reworded Dex Entries (RDE)
 
@@ -193,23 +203,21 @@ RDEs (reworded dex entries) are questions that ask for a Pokemon based on partia
 
 Do not ask questions which are a current or recent discussion topic in another room on the website. This includes reusing questions which are from an ongoing or recently concluded hunt in the [Scavengers](http://play.pokemonshowdown.com/scavengers) room.
 
-##### Inappropriate/Explicit Content
-
-This should be self-explanatory and in line with global PS rules. If you have any doubts about it, don’t ask the question.
-
 #### Banned/Restricted Question Types
 
 These types of questions are also banned:
 
 ##### Unverifiable Answers
 
-This includes subjective questions, fan speculation/unconfirmed rumors, and questions with varying degrees of correctness. There must be an objective, non-negotiable, undebatable answer to your question.
+Questions must have a verifiable, existing, objective, valid answer. This includes questions about speculation or rumours, as well as questions asking for an explanation, are not allowed as they are too difficult to gauge how much detail is required in the answer.
 
 ![Unverifiable 1](/assets/images/tt-unverifiable-1.png)
 *Notice the word “allegedly” in the question. That’s a tip that this question is not verifiable.*
 
 ![Unverifiable 2](/assets/images/tt-unverifiable-2.png)
 *GameFreak does not officially define the colors of shinies, and people’s descriptions of colors can vary.*
+
+![Explanations](/assets/images/tt-explanations.png)
 
 ##### Puzzle-type Questions
 
@@ -237,32 +245,6 @@ When you have the BP, you get to ask one question, and one question only. These 
 
 ![Multiple questions](/assets/images/tt-multiple-questions.png)
 *This veto could have been avoided by asking only one of these questions.*
-
-##### Multiple Choice
-
-Sometimes called **MC**. These are questions where there is a very restricted number of answers and all of them are well-known, such that someone could easily spam-guess until they won. This includes **true or false** and **yes or no** questions.
-
-![Multiple choice](/assets/images/tt-multiple-choice.png)
-
-##### Calculations and Translations
-
-All questions that require calculation (simple or complex) or translation from or into a non-English language are not allowed. A notable exception to this is Pokemon-related questions where Pokemon, moves, etc. have official names in other languages. 
-
-![Calculations](/assets/images/tt-calculations.png)
-![Translations](/assets/images/tt-translations.png)
-
-##### Too Broad
-
-Questions that are too general are not allowed and will be vetoed.
-
-![Too broad](/assets/images/tt-too-broad.png)
-*This question is far too open-ended to constitute trivia.*
-
-##### Explanations
-
-This includes **“why”** and **“how”** questions. These are problematic because their answers can be subjective with varying degrees of correctness, and people can easily get into endless debates over semantics.
-
-![Explanations](/assets/images/tt-explanations.png)
 
 ##### /dt, /ds, /ms, /as, and /is Searchable Questions
 
@@ -327,7 +309,7 @@ A question is only valid if it’s been successfully bolded. If you ask a questi
 Smogon questions are allowed to be asked in Trivia Tracker, but there are a few things you should keep in mind when asking them:
 
 - Questions that can be answered by using /tier and /om are vetoable only if the answer can be accessed by viewing Banlist/Ruleset; this does NOT apply to if the question can be answered by viewing any links about Metagame discussion, Viability rankings, etc.
-- OMs such as April Fools' Day modes, Weedmons, etc. fall under meme clause and will be vetoed.
+- OMs such as April Fools' Day modes, Weedmons, etc. may be vetoed.
 - Questions about analyses will be ruled as obscure at an auth's discretion.
 
 Because Smogon questions are allowed, questions about the Create-A-Pokemon (CAP) project are also allowed by extension. However, CAP-exclusive Pokemon, moves, items, and abilities are never considered valid answers to Pokemon questions unless specified otherwise.
