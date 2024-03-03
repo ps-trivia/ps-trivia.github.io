@@ -155,9 +155,26 @@ For accessibility purposes, any question that requires you to watch a Youtube or
 
 ![Restricted content](/assets/images/tt-restricted-content.png)
 
-##### Pokemon Showdown
+##### Unverifiable Answers
 
-Questions about Pokemon Showdown! are not allowed, whenever they are asking about a user, a room, or something exclusive to PS!
+Questions must have a verifiable, unambiguous, objective, valid answer. This includes questions about speculation or rumours, as well as questions asking for an explanation, are not allowed as they are too difficult to gauge how much detail is required in the answer.
+
+![Unverifiable 1](/assets/images/tt-unverifiable-1.png)
+*Notice the word “allegedly” in the question. That’s a tip that this question is not verifiable.*
+
+![Unverifiable 2](/assets/images/tt-unverifiable-2.png)
+*GameFreak does not officially define the colors of shinies, and people’s descriptions of colors can vary.*
+
+![Explanations](/assets/images/tt-explanations.png)
+
+
+##### Pokemon Showdown and Smogon
+
+Questions about Pokemon Showdown! are not allowed, whenever they are asking about a user, a room, or something exclusive to PS!. Questions regarding Smogon-based tiers are allowed to be asked in Trivia Tracker, but there are a few things you should keep in mind when asking them:
+
+- OMs such as April Fools' Day modes, Weedmons, etc. may be vetoed.
+- Questions about analyses will be ruled as obscure at an auth's discretion.
+- Questions about the Create-A-Pokemon (CAP) project are also allowed by extension, but, CAP-exclusive Pokemon, moves, items, and abilities are never considered valid answers to Pokemon questions unless specified otherwise.
 
 ![Pokemon showdown](/assets/images/tt-pokemon-showdown.png)
 
@@ -179,12 +196,16 @@ The topic of your question must have trivial significance, and cannot depend onl
 
 ![Not trivia](/assets/images/tt-not-trivia.png)
 *The subject of this question is the Bee Movie script, which is a meme.*
+
 ![Calculations](/assets/images/tt-calculations.png)
 *The answer to this question can only be obtained by calculation, and it not trivially significant. Note that questions about mathematical constants and famous equations are legal.*
+
 ![Translations](/assets/images/tt-translations.png)
 *The translation of a common phrase into another language is not trivially significant. However, questions about the name of a Pokemon in another language (for example) are legal.*
+
 ![Too broad](/assets/images/tt-too-broad.png)
 *This question is far too open-ended to constitute trivia.*
+
 ![Multiple choice](/assets/images/tt-multiple-choice.png)
 *Answerers can spam-guess all of Articuno, Zapdos and Moltres and get it correct.*
 
@@ -207,18 +228,6 @@ Do not ask questions which are a current or recent discussion topic in another r
 
 These types of questions are also banned:
 
-##### Unverifiable Answers
-
-Questions must have a verifiable, existing, objective, valid answer. This includes questions about speculation or rumours, as well as questions asking for an explanation, are not allowed as they are too difficult to gauge how much detail is required in the answer.
-
-![Unverifiable 1](/assets/images/tt-unverifiable-1.png)
-*Notice the word “allegedly” in the question. That’s a tip that this question is not verifiable.*
-
-![Unverifiable 2](/assets/images/tt-unverifiable-2.png)
-*GameFreak does not officially define the colors of shinies, and people’s descriptions of colors can vary.*
-
-![Explanations](/assets/images/tt-explanations.png)
-
 ##### Puzzle-type Questions
 
 This includes codes, riddles, and other question types that do not count as trivia. Anagrams are allowed as long as the words have a relationship aside from just being anagrams.
@@ -232,9 +241,9 @@ In Trivia Tracker, asking a question implies that it has a working answer. If th
 ![Trick questions](/assets/images/tt-trick-questions.png)
 *This is a trick question, because the answer is “nobody yet.”*
 
-##### Answer in Question (AIQ)
+##### Answer in Question (AIQ)/Answer in Chat (AIC)
 
-A question is allowed to contain its own answer, but it cannot imply or state that it does. 
+A question is allowed to contain its own answer, but it cannot imply or state that it does. Similarly, answers to questions may be in the chat preceding the question, but the question may be vetoed if it is deemed directly/obviously connected to the chat by auth or otherwise subverts TTL by signalling answers to other players. 
 
 ![AIQ](/assets/images/tt-aiq.png)
 *This question is allowed because while Battle appears in the question, it is not clear that it should be the answer.*
@@ -246,9 +255,9 @@ When you have the BP, you get to ask one question, and one question only. These 
 ![Multiple questions](/assets/images/tt-multiple-questions.png)
 *This veto could have been avoided by asking only one of these questions.*
 
-##### /dt, /ds, /ms, /as, and /is Searchable Questions
+##### PS! Command-searchable Questions
 
-Answers that can be found easily using the PS! search commands /dt, /ds, /ms, /as, and /isearch are not allowed; however, in the case of /is and /as searchable questions, they will only be vetoed if they can be found by using exact words or phrases from your question. 
+Answers that can be found easily using PS! commands such as /dt, /ds, /ms, /as, /is, /tier or /om are not allowed; however, in the case of /is- and /as-searchable questions, they will only be vetoed if they can be found by using exact words or phrases from your question. 
 
 ![Searchable 1](/assets/images/tt-searchable-1.png)
 
@@ -283,9 +292,9 @@ Topics that are discouraged due to being prone to obscurity include: YouTube vid
 
 ![Obscurity](/assets/images/tt-obscurity.png)
 
-##### Chat-killing Clause
+##### Timer Clause
 
-If a question sharply cuts chat activity for an inordinate period of time because no user can answer it, it is at risk of being vetoed to keep the chat and questions flowing smoothly. The standard limit is 5 minutes without answer, after which it is up to the discretion of auth.
+If questions are not answered by 5 minutes and nobody is actively attempting the question, the question may be vetoed.
 
 ![Chat-killing](/assets/images/tt-chat-killing.png)
 *Notice the time stamps; nobody answered for five minutes straight, hence the veto. (Note: Smeargle is not an acceptable answer to this question. You will read why in the next section.)*
@@ -296,23 +305,6 @@ If the context of a question is not Pokemon or immediately apparent, please stat
 
 ![Context](/assets/images/tt-context.png)
 *There is no way to tell which game this question is asking about, therefore it is impossible to answer.*
-
-##### Boldfail Clause
-
-A question is only valid if it’s been successfully bolded. If you ask a question, but don’t write it in bold, you have five seconds to correct the bold, or it will be vetoed. Auth may choose not to veto for this if it is the user's first time asking a question in the room. 
-
-![Boldfail](/assets/images/tt-boldfail.png)
-*As you can see from the time stamps, Trivia User failed to fix the bold within 5 seconds.*
-
-##### Smogon Clause
-
-Smogon questions are allowed to be asked in Trivia Tracker, but there are a few things you should keep in mind when asking them:
-
-- Questions that can be answered by using /tier and /om are vetoable only if the answer can be accessed by viewing Banlist/Ruleset; this does NOT apply to if the question can be answered by viewing any links about Metagame discussion, Viability rankings, etc.
-- OMs such as April Fools' Day modes, Weedmons, etc. may be vetoed.
-- Questions about analyses will be ruled as obscure at an auth's discretion.
-
-Because Smogon questions are allowed, questions about the Create-A-Pokemon (CAP) project are also allowed by extension. However, CAP-exclusive Pokemon, moves, items, and abilities are never considered valid answers to Pokemon questions unless specified otherwise.
 
 ### Rules/Clauses for Accepting Answers
 
@@ -350,16 +342,12 @@ Pokemon and moves that can be multiple types are counted as their default type u
 
 ##### Main Series Clause
 
-All questions about Pokemon games are in the context of the main series games. If the answer to your question comes from a side game and could apply to main series mechanics/characters, you must mention which side game you're referring to in your question. Pokemon Let's Go and Pokemon Legends: Arceus are not main series games.
+All questions about Pokemon games are in the context of the most recent main series games. If the answer to your question comes from a side game and could apply to main series mechanics/characters, you must mention which side game you're referring to in your question. Pokemon Let's Go and Pokemon Legends: Arceus are not main series games.
 
-Furthermore, all questions will assume the National Dex, which includes new Pokemon introduced in Pokemon Legends: Arceus. Therefore, Ursaring would be NFE and Eviolite would be treated as if it works on Ursaring. Asking about moves introduced in Pokemon Legends: Arceus without specifying the context of Pokemon Legends: Arceus would also be allowed. However, all mechanics, such as battle mechanics, item mechanics, move mechanics, etc. would default to the context of the current VGC game, which would currently be Pokemon Scarlet and Violet.
+Furthermore, all questions will assume the National Dex. However, all mechanics, such as battle mechanics, item mechanics, move mechanics, etc. would default to the context of the current VGC game, which are currently Pokemon Scarlet and Violet.
 
 ![Main series](/assets/images/tt-main-series.png)
 *Skyridge Machamp has the ability Immunity in the TCG, but Zangoose counts because of Main Series Clause.*
-
-##### Recency Clause
-
-All Pokemon questions are in the context of the most recently released game(s), unless otherwise noted in the question.
 
 ![Recency](/assets/images/tt-recency.png)
 *Regardless of the asker’s intentions, the question must go to Trivia User 2, due to Recency Clause.*
