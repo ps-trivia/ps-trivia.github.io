@@ -2,7 +2,7 @@ ro:
     start: "<em><strong>"
     end: "</strong></em>"
     users:
-        - name: Aegii
+        - name: aegii
           colour: "#3f80bc"
         - name: blazeofvictory
           colour: "#b13a9f"
@@ -16,17 +16,16 @@ mod:
     users:
         - name: Annika
           colour: "#7a4ae3"
-        - name: Darthikyu
-          colour: "#b53312"
-          note: "(formerly #)"
+        - name: Beedrill-Mega
+          colour: "#ab7533"
         - name: Falcon2703
           colour: "#19b1a7"
         - name: Lucario•1582
           colour: "#965e36"
-        - name: magic communist
-          colour: "#be4b59"
         - name: StrmSrg
           colour: "#0e5fd8"
+        - name: Treozukek
+          colour: "#478b51"
         - name: WarriorGallade
           colour: "#8431e9"
         - name: Yech
@@ -37,8 +36,6 @@ driver:
     start: "<strong>"
     end: "</strong>"
     users:
-        - name: Beedrill-Mega
-          colour: "#ab7533"
         - name: CDman
           colour: "#a94790"
         - name: DanDaMan99
@@ -48,7 +45,9 @@ driver:
           colour: "#3857f2"
           note: "(formerly #)"
         - name: FORTNlTE
-          colour: "#b04cb9"
+          colour: "#b04cb9" 
+        - name: MagikLimbo
+          colour: "#7ca115"
         - name: Mystiphox
           colour: "#2d8f34"
         - name: TeutonicSquire
@@ -56,10 +55,12 @@ driver:
           note: "(formerly @)"
 voice:
     users:
+        - name: 1hfkqhwhrelk
+          colour: "#24946d"        
         - name: Christmas
           colour: "#6938ef"
           note: "(formerly %)"
-        - name: Dot Comfey
+        - name: dot Comfey
           colour: "#c64040"
           note: "(formerly %)"
         - name: ElbowSkinn
@@ -70,26 +71,21 @@ voice:
         - name: Fmaj7
           colour: "#b620d4"
           note: "(formerly @)"
-        - name: FoundThenLost
-          colour: "#4952f3"
-          note: "(formerly @)"
         - name: Illusio
           colour: "#2970c7"
-        - name: notcollintan
-          colour: "#3d970c"
         - name: pyro
           colour: "#e84e11"
           note: "(formerly #)"
         - name: Qui-Gon the Flygon
           colour: "#ce0c12"
           note: "(formerly %)"
-        - name: ShadowSirens
+        - name: shadowsirens
           colour: "#a251bb"
           note: "(formerly %)"
-        - name: tapler
+        - name: Tapler
           colour: "#b48122"
-        - name: waterhoe
-          colour: "#3ea875"
+        - name: Winkyno
+          colour: "#97761c"
 formerro:
     start: "<strong>"
     end: "</strong>"
@@ -100,6 +96,8 @@ formerro:
           colour: "#8b54ca"
         - name: beej
           colour: "#3e9d0c"
+        - name: Darth
+          colour: "#b53312"          
         - name: Dell
           colour: "#1673b6"
         - name: Garrett16
@@ -170,6 +168,8 @@ formermod:
           colour: "#328169"
         - name: Dodmen
           colour: "#0a9d87"
+        - name: Found then Lost
+          colour: "#4952f3"
         - name: Gensokyo
           colour: "#67a456"
         - name: Hokatsuki
@@ -222,7 +222,7 @@ formermod:
           colour: "#2a9c6b"
         - name: Starmaster
           colour: "#c836c0"
-        - name: "Trainer 10913"
+        - name: Trainer 10913
           colour: "#a27a29"
         - name: Tunaface
           colour: "#664bec"
@@ -284,6 +284,8 @@ formerdriver:
           colour: "#a2488e"
         - name: lotiasite
           colour: "#2c7586"
+        - name: notcollintan
+          colour: "#3d970c"
         - name: ntron
           colour: "#ca3f0c"
         - name: Ocean
