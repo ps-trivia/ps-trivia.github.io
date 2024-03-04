@@ -17,18 +17,13 @@ A full guide on how Jeopard-E works can be found [here](https://drive.google.com
 ### Basic Trivia Tracker Etiquette
 
 - Please do not use **bold text** unless it is your turn and you’re either asking a question, giving a hint, or vetoing your own question.
-- Please do not rush people to ask questions. Once you have the BP, you have **<u>five</u>** minutes to ask a question, after which the BP is opened automatically. Jeopard-E will PM you with a reminder if you have not asked after three minutes. If you claimed an open BP (rather than answering a question correctly), you have **<u>three and a half</u>** minutes to ask your question instead of the usual five.
+- Please do not rush people to ask questions. Once you have the BP, you have **<u>five</u>** minutes (or **three and a half** minutes if you claimed an open BP) to ask a question, after which the BP is opened automatically. Jeopard-E will PM you with a reminder if you have not asked after three minutes.
 - Please avoid overasking questions. If a question was recently asked in chat (1-2 hours) it can be vetoed for recency. If a question is asked too often over several days or weeks, it can be vetoed for being overasked.
-- If you need an extension, highlight an authorized user (+ or up) and they will close the BP for you. But do not time stall.
 - Do not claim BP just to open it again.
-- If your question has been vetoed, do not try to use ``~yes``. Ask a new question or open the BP.
+- If you require assistance, you can ask an auth (ranks +, %, @, #) who is active in chat, or if there are none, you can highlight them with ``~auth``. They can close the BP if it opened while you were typing your question, if there is a question you think should be vetoed, or if there is a new user in chat who needs extra help.
 - If you would like to dispute a veto, please take it up with a staff member in PM. Don’t debate about it at-length in the chat, as this drags down the game.
-- If you think a question should be vetoed, don’t say “veto.” Highlight an auth by saying ``~auth`` and they will deal with the problem. You can only veto your own questions.
-- Don’t be mean to new users who don’t understand the rules. Direct them to this document and the beginners’ guide.
 - Please respect asker’s discretion in choosing an answer, where applicable.
-- Room auth have the authority to exercise leniency to new users in the room in regards to some Trivia Tracker rules.
-- Questions or answers that set off Pokemon Showdown's or the Trivia room's automatic spoilers are forbidden.
-- Sometimes a question will be vetoed if users are spamming answers, even if it's not multiple choice. Questions whose answers are **numbers** can easily fall under this. Additionally, you may be warned or muted for spamming answers.
+- Please refrain from spamming answers.
 - It is heavily discouraged to take questions from other trivia sites and sources; please make an effort to create your own questions.
 - **Manipulating or attempting to manipulate TTL in any way, including cheating through PMing questions/answers, using alts to farm points, and asking for help in other rooms, is strictly prohibited, and will be punished with a roomban without warning.**
 
@@ -119,7 +114,7 @@ Here are some guidelines to keep in mind:
 #### What is a Veto? (And why is this Happening to Me?)
 
 
-Because Trivia Tracker is a game that tracks points, there are rules for which kinds of questions you’re allowed to ask. If your question breaks one of these rules, it’s likely to be **vetoed**, which means that you must either ask a new question or open the BP.
+Because Trivia Tracker is a game that tracks points, there are rules for which kinds of questions you’re allowed to ask. If your question breaks one of these rules, it’s likely to be **vetoed**, which means that you must either ask a new question or open the BP. 
 
 ![What is veto](/assets/images/tt-what-is-veto.png)
 
@@ -310,6 +305,51 @@ If the context of a question is not Pokemon or immediately apparent, please stat
 
 In addition to the regular rules for asking questions, there are also some clauses that dictate whether or not an answer can be accepted. In some cases, a rule means you must accept a certain answer, or an authorized user may reverse the decision. These can be divided into **Pokemon-Related Clauses** and **Other Question Clauses**.
 
+#### General Rules
+
+##### Spelling
+
+Askers may choose to ~yes whoever they think got the answer correct, within reasonable doubt. As a guideline, there is a typo allowance depending on the length of the answer. If an answer falls within this allowance, it must be accepted by the asker. The allowances are:
+
+- Less than 5 letters: zero typos
+- Exactly 5 letters: one typo
+- More than 5 letters: two typos
+
+Single typos are the following:
+
+- Adding one character (Chna -> China)
+- Removing one character (Chinma -> China)
+- Changing one character (Chjna -> China)
+- Swapping two adjacent characters (Cihna -> China)
+
+The total number of typos in your answer is the fewest number of the above steps needed to change it into the correct answer.
+
+![Spelling 1](/assets/images/tt-spelling-1.png)
+*“Wrasaw” is one typo away from Warsaw. Therefore, Trivia User 2 gets BP.*
+
+**NOTE: There are exceptions--particularly if the answer that’s one/two letters off would constitute a properly-spelt, different answer by itself.**
+
+![Spelling 2](/assets/images/tt-spelling-2.png)
+*Despite only being one letter off, Woobat is a separate incorrect answer from Swoobat; therefore, Trivia User 2 is correct.*
+
+##### One Line Clause
+
+Multiple answers to questions must ​be on one line in order for your answers to count. This is to prevent flooding/spamming in chat.
+
+![One line](/assets/images/tt-one-line.png)
+
+##### Name Clause
+
+If you want the full name of the person you’re asking for in your question you must specify when asking your question otherwise just answering with a last name is acceptable. Questions asking for a full name can be answered with just a first and last name correctly unless the person is known by one or more middle names or initials as well. If an asker is specifically looking for an answer that includes middle names, an alternate name, or prefixes/suffixes, they must specify this in the question ahead of time.
+
+![Name 1](/assets/images/tt-name-1.png)
+*There is one US President with the last name Lincoln; therefore, Trivia Asker must accept “Lincoln.”*
+
+**NOTE: There are exceptions to this--particularly if someone is known primarily by their first name, or if there are two people with the same last name who are famous for the same thing.**
+
+![Name 2](/assets/images/tt-name-2.png)
+*The asker may use discretion and only accept “FDR” or “Franklin Roosevelt,” because of President Theodore Roosevelt.*
+
 #### Pokemon-related Clauses
 
 **Unless specifically stated otherwise in the question**, these clauses apply to all Pokemon questions.
@@ -381,51 +421,6 @@ Due to its broad nature, Trivia room auth reserves the right to deem anything as
 
 All Z-Moves, Max Moves, and G-Max Moves as answers are excluded unless specifically included by the question.
 
-#### Other Answer Clauses
-
-##### Spelling Clause
-
-When answering questions, there is a typo allowance depending on the length of the answer. If your answer falls within this allowance, it must be accepted by the asker. The allowances are:
-
-- Less than 5 letters: zero typos
-- Exactly 5 letters: one typo
-- More than 5 letters: two typos
-
-Single typos are the following:
-
-- Adding one character (Chna -> China)
-- Removing one character (Chinma -> China)
-- Changing one character (Chjna -> China)
-- Swapping two adjacent characters (Cihna -> China)
-
-The total number of typos in your answer is the fewest number of the above steps needed to change it into the correct answer.
-
-![Spelling 1](/assets/images/tt-spelling-1.png)
-*“Wrasaw” is one typo away from Warsaw. Therefore, Trivia User 2 gets BP.*
-
-**NOTE: There are exceptions--particularly if the answer that’s one/two letters off would constitute a properly-spelt, different answer by itself.**
-
-![Spelling 2](/assets/images/tt-spelling-2.png)
-*Despite only being one letter off, Woobat is a separate incorrect answer from Swoobat; therefore, Trivia User 2 is correct.*
-
-##### One Line Clause
-
-Multiple answers to questions must ​be on one line in order for your answers to count. This is to prevent flooding/spamming in chat.
-
-![One line](/assets/images/tt-one-line.png)
-
-##### Name Clause
-
-If you want the full name of the person you’re asking for in your question you must specify when asking your question otherwise just answering with a last name is acceptable. Questions asking for a full name can be answered with just a first and last name correctly unless the person is known by one or more middle names or initials as well. If an asker is specifically looking for an answer that includes middle names, an alternate name, or prefixes/suffixes, they must specify this in the question ahead of time.
-
-![Name 1](/assets/images/tt-name-1.png)
-*There is one US President with the last name Lincoln; therefore, Trivia Asker must accept “Lincoln.”*
-
-**NOTE: There are exceptions to this--particularly if someone is known primarily by their first name, or if there are two people with the same last name who are famous for the same thing.**
-
-![Name 2](/assets/images/tt-name-2.png)
-*The asker may use discretion and only accept “FDR” or “Franklin Roosevelt,” because of President Theodore Roosevelt.*
-
 ### Glossary of Pokemon Term Definitions
 
 #### Category Name
@@ -434,15 +429,7 @@ A Pokemon’s **category name** (or just **category**) is a piece of in-game inf
 
 #### Forms
 
-**Forms** (sometimes written as **formes**) are major variations of Pokemon in the main series games that change the Pokemon's appearance and/or in-battle characteristics.The two categories of forms are functional and cosmetic. The former has notable in-battle differences, while the latter is only a change of appearance. Non-base forms are considered viable answers for questions in which the base form is also correct. You do not need to specify a modifier for base forms, such as Shaymin-Land. Some Pokemon do not have base forms, so you must answer with the full form name (for example, Oricorio does not have a base form.). All recognized Pokemon forms can be found using [this document](https://docs.google.com/spreadsheets/d/158AfuH9Abr0gOLDplc3cf2WPQwUsc57OjHO3My52WUo/edit#gid=0).
-
-#### Functional Forms
-
-A functional form is a major variation of Pokemon in which its in-battle characteristics are altered. These characteristics can include its Base Stat distribution, moveset, and typing; they have a recognizable difference with other forms outside of appearance.
-
-#### Cosmetic Forms
-
-A cosmetic form is a major variation of Pokemon in which its appearance is altered, without any in-battle consequences.  Other main series minor variations (such as shinies or Spinda patterns) or variations in side games (such as Shadow Pokemon or Magikarp patterns) are not forms. 
+**Forms** (sometimes written as **formes**) are major variations of Pokemon in the main series games that change the Pokemon's appearance and/or in-battle characteristics. They are either functional or cosmetic. The former has notable in-battle differences, while the latter is only a change of appearance. Non-base forms are considered viable answers for questions in which the base form is also correct. You do not need to specify a modifier for base forms, such as Shaymin-Land. Some Pokemon do not have base forms (eg. Oricorio), so you must answer with the full form name. All recognized Pokemon forms can be found using [this document](https://docs.google.com/spreadsheets/d/158AfuH9Abr0gOLDplc3cf2WPQwUsc57OjHO3My52WUo/edit#gid=0).
 
 #### Fossil Pokemon
 
@@ -455,11 +442,11 @@ A Little Cup or LC Pokemon is a Pokemon that does not evolve from anything and i
 
 #### Not Fully Evolved (NFE)
 
-A **not fully evolved** or **NFE** Pokemon is any Pokemon that is still capable of evolving, whether or not it evolved from anything else. By this definition, both Bulbasaur and Ivysaur are NFE, though Bulbasaur is also LC.
+A **not fully evolved** or **NFE** Pokemon is any Pokemon that is still capable of evolving, whether or not it evolved from anything else. By this definition, both Bulbasaur and Ivysaur are NFE, and Bulbasaur is additionally LC.
 
 #### Fully Evolved
 
-A fully evolved Pokemon is a Pokemon that cannot evolve any further. It is at its highest evolutionary stage. By this definition, Skarmory (for example) is fully evolved. If you want to exclude Pokemon that haven’t evolved from anything, you must state this. For example: “This is the Fairy-type Pokemon with the highest BST that is fully evolved and has at least one previous evolution.” Note that a Pokemon like Venusaur is still considered to be fully-evolved, even if it is still capable of mega-evolving.
+A fully evolved Pokemon is a Pokemon that cannot evolve (Note: Mega evolution is not considered true evolution). By this definition, Skarmory (for example) is fully evolved. If you want to exclude Pokemon that haven’t evolved from anything, you must state this. For example: “This is the Fairy-type Pokemon with the highest BST that is fully evolved and has at least one previous evolution.”
 
 #### Pseudo-Legendary
 
@@ -469,7 +456,7 @@ Dragonite, Tyranitar, Salamence, Metagross, Garchomp, Hydreigon, Goodra, Kommo-o
 #### Legendary and Mythical Pokemon
 
 The following Pokemon are defined as **legendary** for the purposes of trivia (italicized are also **mythical**):
-Articuno, Zapdos, Moltres, Mewtwo, Raikou, Entei, Suicune, Lugia, Ho-Oh, Regirock, Regice, Registeel, Latias, Latios, Kyogre, Groudon, Rayquaza, Uxie, Mesprit, Azelf, Dialga, Palkia, Heatran, Regigigas, Giratina, Cresselia, Cobalion, Terrakion, Virizion, Tornadus, Thundurus, Reshiram, Zekrom, Landorus, Kyurem, Xerneas, Yveltal, Zygarde, Tapu Koko, Tapu Lele, Tapu Bulu, Tapu Fini, Type: Null, Silvally, Cosmog, Cosmoem, Solgaleo, Lunala, Necrozma, Zacian, Zamazenta, Eternatus, Kubfu, Urshifu, Regieleki, Regidrago, Glastrier, Spectrier, Calyrex, Enamorus, Koraidon, Miraidon, Chien-Pao, Chi-Yu, Ting-Lu, Wo-Chien, *Mew*, *Celebi*, *Jirachi*, *Deoxys*, *Manaphy*, *Phione*, *Darkrai*, *Shaymin*, *Arceus*, *Victini*, *Keldeo*, *Meloetta*, *Genesect*, *Diancie*, *Hoopa*, *Volcanion*, *Magearna*, *Marshadow*, *Zeraora*, *Meltan*, *Melmetal*, *Zarude*
+Articuno, Zapdos, Moltres, Mewtwo, Raikou, Entei, Suicune, Lugia, Ho-Oh, Regirock, Regice, Registeel, Latias, Latios, Kyogre, Groudon, Rayquaza, Uxie, Mesprit, Azelf, Dialga, Palkia, Heatran, Regigigas, Giratina, Cresselia, Cobalion, Terrakion, Virizion, Tornadus, Thundurus, Reshiram, Zekrom, Landorus, Kyurem, Xerneas, Yveltal, Zygarde, Tapu Koko, Tapu Lele, Tapu Bulu, Tapu Fini, Type: Null, Silvally, Cosmog, Cosmoem, Solgaleo, Lunala, Necrozma, Zacian, Zamazenta, Eternatus, Kubfu, Urshifu, Regieleki, Regidrago, Glastrier, Spectrier, Calyrex, Enamorus, Chien-Pao, Chi-Yu, Ting-Lu, Wo-Chien, Koraidon, Miraidon, Okidogi, Munkidori, Fezandipiti, Ogerpon, Terapagos, *Mew*, *Celebi*, *Jirachi*, *Deoxys*, *Manaphy*, *Phione*, *Darkrai*, *Shaymin*, *Arceus*, *Victini*, *Keldeo*, *Meloetta*, *Genesect*, *Diancie*, *Hoopa*, *Volcanion*, *Magearna*, *Marshadow*, *Zeraora*, *Meltan*, *Melmetal*, *Zarude*, *Pecharunt*
 
 #### Starter Pokemon
 
