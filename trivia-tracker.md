@@ -1,6 +1,4 @@
-![image](https://github.com/ps-trivia/ps-trivia.github.io/assets/159674571/ae820df2-090b-4358-b28d-97dfb0211926)---
-title: Trivia Tracker
-layout: default
+Trivia Tracker
 ---
 
 ### What is Trivia Tracker?
