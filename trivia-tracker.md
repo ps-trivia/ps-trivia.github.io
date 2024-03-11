@@ -1,4 +1,4 @@
----
+![image](https://github.com/ps-trivia/ps-trivia.github.io/assets/159674571/ae820df2-090b-4358-b28d-97dfb0211926)---
 title: Trivia Tracker
 layout: default
 ---
@@ -144,12 +144,6 @@ There are certain topics that cannot be asked about in Trivia for a number of re
 
 Questions and answers must abide by the [Pokemon Showdown Global Rules](https://pokemonshowdown.com/rules). This includes sexually inappropriate/explicit content, as well as questions about Pokemon ROM Hacks.
 
-##### Restricted Content
-
-For accessibility purposes, any question that requires you to watch a Youtube or Twitch video/stream, or another external source such as a podcast is not allowed.
-
-![Restricted content](/assets/images/tt-restricted-content.png)
-
 ##### Unverifiable Answers
 
 Questions must have a verifiable, unambiguous, objective, valid answer. This includes questions about speculation or rumours, as well as questions asking for an explanation, are not allowed as they are too difficult to gauge how much detail is required in the answer.
@@ -187,10 +181,7 @@ Questions with spoilers are only allowed one month after the worldwide release o
 
 ##### Not Trivia
 
-The topic of your question must have trivial significance, and cannot depend only on memes. This means calculation, translation (with the exception of names and Pokemon-related terms with official translations), and questions that are too broad or easy may be vetoed by an auth at their discretion. Multiple Choice and True or False questions are also considered too easy as answerers can spam-guess options and get it correct.
-
-![Not trivia](/assets/images/tt-not-trivia.png)
-*The subject of this question is the Bee Movie script, which is a meme.*
+The topic of your question must have trivial significance. This means calculation, translation (with the exception of names and Pokemon-related terms with official translations), and questions that are too broad or easy may be vetoed by an auth at their discretion. Multiple Choice and True or False questions are also considered too easy as answerers can spam-guess options and get it correct.
 
 ![Calculations](/assets/images/tt-calculations.png)
 *The answer to this question can only be obtained by calculation, and it not trivially significant. Note that questions about mathematical constants and famous equations are legal.*
@@ -205,15 +196,15 @@ The topic of your question must have trivial significance, and cannot depend onl
 *Answerers can spam-guess all of Articuno, Zapdos and Moltres and get it correct.*
 
 
-##### Reworded Dex Entries (RDE)
+##### Dex Entries
 
-RDEs (reworded dex entries) are questions that ask for a Pokemon based on partially rephrased or reordered information from its dex entry. These questions are allowed as long as they feature a recognizable phrase from the original entry, mention that the content comes from the Pokedex, and are not reworded to the point where they become puzzles or treasure hunts. This will be determined by auth discretion.
+Questions must declare that their information is from Pokedex entries, if applicable. This prevents questions from becoming too vague.
 
-![RDE 1](/assets/images/tt-rde-1.png)
-*Minor changes to the dex entry make this question substantially more difficult, and it is unclear without knowing the answer how many artistic liberties the author has taken with the reword.*
+![DexEntry-wrong](https://github.com/ps-trivia/ps-trivia.github.io/assets/159674571/0ab64ff8-4397-494f-8345-76bd51bd8762)
+*The asker did not specify that this information comes from a Pokedex entry.*
 
-![RDE 2](/assets/images/tt-rde-2.png)
-*This question, however, is legal, as it contains a directly-quoted, recognizable phrase from the entry.*
+![DexEntry-correct](https://github.com/ps-trivia/ps-trivia.github.io/assets/159674571/687b312f-21ea-492f-af82-88084cc4ec38)
+*Once the asker declares that the source is the Pokedex, the question becomes legal.*
 
 ##### Question From Other Showdown Rooms
 
