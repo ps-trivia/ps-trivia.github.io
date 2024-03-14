@@ -160,8 +160,8 @@ formermod:
           colour: "#3675b5"
         - name: Chimplup
           colour: "#148a33"
-        - name: CloudyNatu/Clouds
-          colour: "#188c37"
+        - name: Clouds
+          colour: "#4990ab"
         - name: CocoonMetaKnight
           colour: "#d95e21"
         - name: Dazelel
@@ -296,6 +296,8 @@ formerdriver:
           colour: "#3362e3"
         - name: PrimalLanturn
           colour: "#4379a8"
+        - name: Rensay
+          colour: "#44a7b8" 
         - name: Reverb
           colour: "#0000ff"
         - name: Sanjay
