@@ -73,6 +73,10 @@ voice:
           note: "(formerly @)"
         - name: Illusio
           colour: "#2970c7"
+        - name: MaypleTreeway
+          colour: "#1669c7"
+        - name: ohxthespark
+          colour: "#949909"
         - name: pyro
           colour: "#e84e11"
           note: "(formerly #)"
