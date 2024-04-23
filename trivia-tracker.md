@@ -245,11 +245,6 @@ Answers that can be found easily using PS! commands such as /dt, /ds, /ms, /as, 
 
 ![Searchable 1](/assets/images/tt-searchable-1.png)
 
-Additionally, all answers that can be obtained using the links provided by /dt are also not allowed.
-
-![Searchable 2](/assets/images/tt-searchable-2.png)
-![Searchable 3](/assets/images/tt-searchable-3.png)
-
 ##### Lists of Six or More
 
 Ideally answers should be relatively short to keep them simple and avoid flooding. This problem is easily avoided by asking for fewer items.
