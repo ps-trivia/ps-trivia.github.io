@@ -17,7 +17,7 @@ A full guide on how Jeopard-E works can be found [here](https://drive.google.com
 - Please do not use **bold text** unless it is your turn and you’re either asking a question, giving a hint, or vetoing your own question.
 - Please do not rush people to ask questions. Once you have the BP, you have **<u>five</u>** minutes (or **three and a half** minutes if you claimed an open BP) to ask a question, after which the BP is opened automatically. Jeopard-E will PM you with a reminder if you have not asked after three minutes.
 - Please avoid overasking questions. If a question was recently asked in chat (1-2 hours) it can be vetoed for recency. If a question is asked too often over several days or weeks, it can be vetoed for being overasked.
-- Do not claim BP just to open it again.
+- Do not claim BP just to open it again. Users are encouraged to have a question ready before claiming BP.
 - If you require assistance, you can ask an auth (ranks +, %, @, #) who is active in chat, or if there are none, you can highlight them with ``~auth``. They can close the BP if it opened while you were typing your question, if there is a question you think should be vetoed, or if there is a new user in chat who needs extra help.
 - If you would like to dispute a veto, please take it up with a staff member in PM. Don’t debate about it at-length in the chat, as this drags down the game.
 - Please respect asker’s discretion in choosing an answer, where applicable.
@@ -280,7 +280,7 @@ If questions are not answered by 5 minutes and nobody is actively attempting the
 
 ##### Context Clause
 
-If the context of a question is not Pokemon or immediately apparent, please state it in the question, or it will likely be vetoed.
+Please state the context of a question if it is not Pokemon or otherwise immediately apparent, as vague questions are likely to be vetoed.
 
 ![Context](/assets/images/tt-context.png)
 *There is no way to tell which game this question is asking about, therefore it is impossible to answer.*
@@ -420,17 +420,12 @@ A Pokemon’s **category name** (or just **category**) is a piece of in-game inf
 A Fossil Pokemon is any Pokemon or evolution of a Pokemon which can be revived from a fossil. The following Pokemon are defined as Fossil Pokemon:
 Omanyte, Omastar, Kabuto, Kabutops, Aerodactyl, Anorith, Armaldo, Lileep, Cradily, Shieldon, Bastiodon, Cranidos, Rampardos, Tirtouga, Carracosta, Archen, Archeops, Tyrunt, Tyrantrum, Amaura, Aurorus, Dracozolt, Arctozolt, Dracovish, Arctovish
 
-#### Little Cup (LC)
-
-A Little Cup or LC Pokemon is a Pokemon that does not evolve from anything and is still capable of evolving. This is not the same as the LC competitive tier, in which certain Pokemon that would be characterized as LC for the purposes of Trivia are banned (such as Yanma and Poipole). This is also a subset of not fully evolved (NFE).
-
-#### Not Fully Evolved (NFE)
+#### Evololutionary stages
+A **Little Cup** or **LC** Pokemon is a Pokemon that does not evolve from anything and is still capable of evolving. This is not the same as the LC competitive tier, in which certain Pokemon that would be characterized as LC for the purposes of Trivia are banned (such as Yanma and Poipole). This is also a subset of not fully evolved (NFE).
 
 A **not fully evolved** or **NFE** Pokemon is any Pokemon that is still capable of evolving, whether or not it evolved from anything else. By this definition, both Bulbasaur and Ivysaur are NFE, and Bulbasaur is additionally LC.
 
-#### Fully Evolved
-
-A fully evolved Pokemon is a Pokemon that cannot evolve (Note: Mega evolution is not considered true evolution). By this definition, Skarmory (for example) is fully evolved. If you want to exclude Pokemon that haven’t evolved from anything, you must state this. For example: “This is the Fairy-type Pokemon with the highest BST that is fully evolved and has at least one previous evolution.”
+A **fully evolved** or **FE** Pokemon is a Pokemon that cannot evolve (Note: Mega evolution is not considered true evolution). By this definition, Skarmory (for example) is fully evolved. If you want to exclude Pokemon that haven’t evolved from anything, you must state this. For example: “This is the Fairy-type Pokemon with the highest BST that is fully evolved and has at least one previous evolution.”
 
 #### Pseudo-Legendary
 
@@ -444,7 +439,7 @@ Articuno, Zapdos, Moltres, Mewtwo, Raikou, Entei, Suicune, Lugia, Ho-Oh, Regiroc
 
 #### Starter Pokemon
 
-A **starter** in the context of the games is a Pokemon bestowed on the player character at the beginning of a game. Owing to main series clause, any question asking about “starters,” unless otherwise specified, will be interpreted as describing the following Pokemon and their evolutions, all forms excluded:
+A **starter** in the context of the games is a Pokemon bestowed on the player character at the beginning of a game. These are officially referred to as **First Partner Pokemon**. Owing to main series clause, any question asking about “starters,” unless otherwise specified, will be interpreted as describing the following Pokemon and their evolutions, all forms excluded:
 Bulbasaur, Charmander, Squirtle, Pikachu*, Chikorita, Cyndaquil, Totodile, Treecko, Torchic, Mudkip, Piplup, Chimchar, Turtwig, Snivy, Tepig, Oshawott, Chespin, Fennekin, Froakie, Rowlet, Litten, Popplio, Grookey, Scorbunny, Sobble, Sprigatito, Fuecoco, Quaxly
 
 *Raichu is not a starter because the Pikachu you receive as a starter cannot evolve into Raichu.
