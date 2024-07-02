@@ -178,8 +178,9 @@ Copied questions from an external website. **DO NOT EVER DO THIS.**
 This special Question Workshop event is a competition to see who can submit the most questions in a specified amount of time. These contests will often have a theme associated with them giving emphasis to certain categories or types of questions. Winning a contest will give you many prizes, such as a nomination for Question Workshop Driver and a permanent record here on the website. 
 
 Question Workshop Submission Contest Winners:  
-QWSC #1 (SG/SH): ConicsVGC  
-QWSC #2 (SG/SH): Beedrill-Mega  
-QWSC #3 (AE/SG/SH): Magic ☭ Communist
+QWSC #1 (SG/SH): **Conics**  
+QWSC #2 (SG/SH): **Beedrill-Mega**  
+QWSC #3 (AE/SG/SH): **Magic ☭ Communist**  
+QWSC #4 (Topics): **Monoples**
 
 **If you have any questions about questions, contact any of the staff in the Question Workshop. We’re happy to help!**
