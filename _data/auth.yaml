@@ -44,12 +44,14 @@ driver:
         - name: deftinwolf
           colour: "#3857f2"
           note: "(formerly #)"
-        - name: FORTNlTE
-          colour: "#b04cb9" 
+        - name: Illusio
+          colour: "#2970c7"
         - name: MagikLimbo
           colour: "#7ca115"
         - name: Mystiphox
           colour: "#2d8f34"
+        - name: ohxthespark
+          colour: "#949909"
         - name: TeutonicSquire
           colour: "#4c871c"
           note: "(formerly @)"
@@ -71,12 +73,12 @@ voice:
         - name: Fmaj7
           colour: "#b620d4"
           note: "(formerly @)"
-        - name: Illusio
-          colour: "#2970c7"
+        - name: FORTNlTE
+          colour: "#b04cb9" 
         - name: MaypleTreeway
           colour: "#1669c7"
-        - name: ohxthespark
-          colour: "#949909"
+        - name: N*talia
+          colour: "#885fce"
         - name: pyro
           colour: "#e84e11"
           note: "(formerly #)"
