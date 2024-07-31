@@ -10,16 +10,18 @@ ro:
           colour: "#766fc1"
         - name: Struchni
           colour: "#cb356d"
+        - name: yeet dab xd
+          colour: "#596bd1"
 mod:
     start: "<strong>"
     end: "</strong>"
     users:
-        - name: Annika
-          colour: "#7a4ae3"
         - name: Beedrill-Mega
           colour: "#ab7533"
         - name: Falcon2703
           colour: "#19b1a7"
+        - name: Felucia
+          colour: "#cd2d80"
         - name: Lucario•1582
           colour: "#965e36"
         - name: StrmSrg
@@ -30,8 +32,7 @@ mod:
           colour: "#8431e9"
         - name: Yech
           colour: "#658d25"
-        - name: yeet dab xd
-          colour: "#596bd1"
+
 driver:
     start: "<strong>"
     end: "</strong>"
@@ -77,6 +78,8 @@ voice:
           colour: "#b04cb9" 
         - name: MaypleTreeway
           colour: "#1669c7"
+        - name: Monoples
+          colour: "#be23cc"
         - name: N*talia
           colour: "#885fce"
         - name: pyro
@@ -90,8 +93,7 @@ voice:
           note: "(formerly %)"
         - name: Tapler
           colour: "#b48122"
-        - name: Winkyno
-          colour: "#97761c"
+
 formerro:
     start: "<strong>"
     end: "</strong>"
