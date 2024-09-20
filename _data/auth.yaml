@@ -4,8 +4,6 @@ ro:
     users:
         - name: aegii
           colour: "#3f80bc"
-        - name: blazeofvictory
-          colour: "#b13a9f"
         - name: Notater517
           colour: "#766fc1"
         - name: Struchni
@@ -42,13 +40,10 @@ driver:
         - name: DanDaMan99
           colour: "#997a38"
           note: "(formerly @)"
-        - name: deftinwolf
-          colour: "#3857f2"
-          note: "(formerly #)"
         - name: Illusio
           colour: "#2970c7"
-        - name: MagikLimbo
-          colour: "#7ca115"
+        - name: Isserley
+          colour: "#bd3f8b"
         - name: Mystiphox
           colour: "#2d8f34"
         - name: ohxthespark
@@ -59,7 +54,10 @@ driver:
 voice:
     users:
         - name: 1hfkqhwhrelk
-          colour: "#24946d"        
+          colour: "#24946d"
+        - name: blazeofvictory
+          note: "(formerly #)
+          colour: "#b13a9f"
         - name: Christmas
           colour: "#6938ef"
           note: "(formerly %)"
@@ -105,7 +103,9 @@ formerro:
         - name: beej
           colour: "#3e9d0c"
         - name: Darth
-          colour: "#b53312"          
+          colour: "#b53312"
+        - name: deftinwolf
+          colour: "#3857f2"
         - name: Dell
           colour: "#1673b6"
         - name: Garrett16
