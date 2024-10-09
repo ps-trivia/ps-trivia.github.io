@@ -35,13 +35,13 @@ driver:
     start: "<strong>"
     end: "</strong>"
     users:
+        - name: Cazenovia
+          colour: "#619617"
         - name: CDman
           colour: "#a94790"
         - name: DanDaMan99
           colour: "#997a38"
           note: "(formerly @)"
-        - name: Illusio
-          colour: "#2970c7"
         - name: Isserley
           colour: "#bd3f8b"
         - name: Mystiphox
@@ -80,7 +80,7 @@ voice:
           colour: "#be23cc"
         - name: N*talia
           colour: "#885fce"
-        - name: pyro
+        - name: PYRO
           colour: "#e84e11"
           note: "(formerly #)"
         - name: Qui-Gon the Flygon
