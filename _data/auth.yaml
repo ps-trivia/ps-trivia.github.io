@@ -45,7 +45,7 @@ driver:
         - name: Mystiphox
           colour: "#2d8f34"
         - name: ohxthespark
-          colour: "#949909"
+          colour: "#8481d4"
         - name: TeutonicSquire
           colour: "#4c871c"
           note: "(formerly @)"
@@ -54,8 +54,8 @@ voice:
         - name: 1hfkqhwhrelk
           colour: "#24946d"
         - name: blazeofvictory
-          note: "(formerly #)
           colour: "#b13a9f"
+          note: "(formerly #)"
         - name: Christmas
           colour: "#6938ef"
           note: "(formerly %)"
