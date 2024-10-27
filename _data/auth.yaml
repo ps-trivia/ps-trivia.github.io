@@ -20,8 +20,6 @@ mod:
           colour: "#19b1a7"
         - name: Felucia
           colour: "#cd2d80"
-        - name: Lucario•1582
-          colour: "#965e36"
         - name: StrmSrg
           colour: "#0e5fd8"
         - name: Treozukek
@@ -80,9 +78,6 @@ voice:
           colour: "#be23cc"
         - name: N*talia
           colour: "#885fce"
-        - name: PYRO
-          colour: "#e84e11"
-          note: "(formerly #)"
         - name: Qui-Gon the Flygon
           colour: "#ce0c12"
           note: "(formerly %)"
@@ -124,6 +119,8 @@ formerro:
           colour: "#0b769d"
         - name: Ninjadog
           colour: "#2aa7c0"
+        - name: PYRO
+          colour: "#e84e11"
         - name: Queez
           colour: "#4158d6"
         - name: Raven
@@ -192,6 +189,8 @@ formermod:
           colour: "#2168b5"
         - name: LordNwahs6
           colour: "#6c920c"
+        - name: Lucario•1582
+          colour: "#965e36"
         - name: Made in Saudi
           colour: "#5d31ee"
         - name: MiniArchitect
