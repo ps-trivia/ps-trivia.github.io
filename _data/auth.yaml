@@ -40,8 +40,10 @@ driver:
         - name: DanDaMan99
           colour: "#997a38"
           note: "(formerly @)"
-        - name: Isserley
-          colour: "#bd3f8b"
+        - name: dot Comfey
+          colour: "#c64040"
+        - name: mayple⍼treeway
+          colour: "#1669c7"
         - name: Mystiphox
           colour: "#2d8f34"
         - name: ohxthespark
@@ -53,14 +55,13 @@ voice:
     users:
         - name: 1hfkqhwhrelk
           colour: "#24946d"
+        - name: arelyn
+          colour: "#b63d86"
         - name: blazeofvictory
           colour: "#b13a9f"
           note: "(formerly #)"
         - name: Christmas
           colour: "#6938ef"
-          note: "(formerly %)"
-        - name: dot Comfey
-          colour: "#c64040"
           note: "(formerly %)"
         - name: ElbowSkinn
           colour: "#779825"
@@ -72,12 +73,8 @@ voice:
           note: "(formerly @)"
         - name: FORTNlTE
           colour: "#b04cb9" 
-        - name: MaypleTreeway
-          colour: "#1669c7"
         - name: Monoples
           colour: "#be23cc"
-        - name: N*talia
-          colour: "#885fce"
         - name: Qui-Gon the Flygon
           colour: "#ce0c12"
           note: "(formerly %)"
@@ -86,6 +83,10 @@ voice:
           note: "(formerly %)"
         - name: Tapler
           colour: "#b48122"
+        - name: watfor
+          colour: "#2b66d5"
+        - name: wintminter
+          colour: "#8b59c8"          
 
 formerro:
     start: "<strong>"
@@ -275,6 +276,8 @@ formerdriver:
           colour: "#618a0f"
         - name: HeracrossTheGreek
           colour: "#e07d1a"
+        - name: Isserley
+          colour: "#bd3f8b"
         - name: jcdumassian
           colour: "#0eb8bb"
         - name: jegoro
@@ -306,9 +309,9 @@ formerdriver:
         - name: Rensay
           colour: "#44a7b8" 
         - name: Reverb
-          colour: "#0000ff"
+          colour: "#206ce8"
         - name: Sanjay
-          colour: "#bf9000"
+          colour: "#7C9e0a"
         - name: Shayy Min Skyy
           colour: "#aa1da3"
         - name: skiddo
