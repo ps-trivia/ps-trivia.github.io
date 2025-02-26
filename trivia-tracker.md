@@ -420,7 +420,7 @@ A Pokemon’s **category name** (or just **category**) is a piece of in-game inf
 A Fossil Pokemon is any Pokemon or evolution of a Pokemon which can be revived from a fossil. The following Pokemon are defined as Fossil Pokemon:
 Omanyte, Omastar, Kabuto, Kabutops, Aerodactyl, Anorith, Armaldo, Lileep, Cradily, Shieldon, Bastiodon, Cranidos, Rampardos, Tirtouga, Carracosta, Archen, Archeops, Tyrunt, Tyrantrum, Amaura, Aurorus, Dracozolt, Arctozolt, Dracovish, Arctovish
 
-#### Evololutionary stages
+#### Evolutionary stages
 A **Little Cup** or **LC** Pokemon is a Pokemon that does not evolve from anything and is still capable of evolving. This is not the same as the LC competitive tier, in which certain Pokemon that would be characterized as LC for the purposes of Trivia are banned (such as Yanma and Poipole). This is also a subset of not fully evolved (NFE).
 
 A **not fully evolved** or **NFE** Pokemon is any Pokemon that is still capable of evolving, whether or not it evolved from anything else. By this definition, both Bulbasaur and Ivysaur are NFE, and Bulbasaur is additionally LC.
