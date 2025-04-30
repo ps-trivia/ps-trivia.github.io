@@ -1,4 +1,8 @@
 years:
+    - year: 2025
+      updates:
+          - date: May 1
+            text: "Questions on fan-made content with large and significant presences that supersedes them simply being derivative works, despite not being official, are now allowed."
     - year: 2023
       updates:
           - date: March 30
@@ -8,11 +12,11 @@ years:
     - year: 2022
       updates:
           - date: June 23
-            text: Questions about any content from Pokemon Scarlett and Violet are banned until December 2, and questions about story content are banned until December 16.
+            text: "Questions about any content from Pokemon Scarlett and Violet are banned until December 2, and questions about story content are banned until December 16."
           - date: April 16
-            text: When you claim BP, you will now get two points for asking instead of just one.
+            text: "When you claim BP, you will now get two points for asking instead of just one."
           - date: March 28
-            text: Spoiler clause now requires one month to have passed since global release instead of three months.
+            text: "Spoiler clause now requires one month to have passed since global release instead of three months."
           - date: February 28
             text: "All questions will assume the National Dex, which includes new Pokemon introduced in Pokemon Legends: Arceus. Therefore, Ursaring would be NFE and Eviolite would be treated as if it works on Ursaring. Asking about moves introduced in Pokemon Legends: Arceus without specifying the context of Pokemon Legends: Arceus would also be allowed. However, all mechanics, such as battle mechanics, item mechanics, move mechanics, etc. would default to the context of the current VGC game, which would currently be Pokemon Sword and Shield."
           - date: January 27
