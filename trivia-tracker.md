@@ -167,7 +167,7 @@ Questions about Pokemon Showdown! are not allowed, whenever they are asking abou
 
 ##### Fan-made Content
 
-Fan-made content, including unauthorised derivative content of original works (e.g. fanfiction) and community-created content are not allowed in Trivia, unless it has a large and official presence that supersedes it simply being a derivative work. This doesn't include translations of content with no official translations (e.g. Mother 3).
+Fan-made content, including unauthorized derivative content of original works (e.g. fanfiction) and community-created content are not allowed in Trivia, unless it has a large and significant presence that supersedes it simply being a derivative work.
 
 ![Fan-made content](/assets/images/tt-fan-made.png)
 
