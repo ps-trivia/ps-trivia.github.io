@@ -35,8 +35,6 @@ driver:
     users:
         - name: Cazenovia
           colour: "#619617"
-        - name: CDman
-          colour: "#a94790"
         - name: DanDaMan99
           colour: "#997a38"
           note: "(formerly @)"
@@ -48,21 +46,24 @@ driver:
           colour: "#2d8f34"
         - name: ohxthespark
           colour: "#8481d4"
-        - name: TeutonicSquire
-          colour: "#4c871c"
-          note: "(formerly @)"
+        - name: watfor
+          colour: "#2b66d5"
+        - name: wintminter
+          colour: "#8b59c8"
+
 voice:
     users:
         - name: 1hfkqhwhrelk
           colour: "#24946d"
-        - name: arelyn
-          colour: "#b63d86"
         - name: blazeofvictory
           colour: "#b13a9f"
           note: "(formerly #)"
         - name: Christmas
           colour: "#6938ef"
           note: "(formerly %)"
+        - name: Dazelel
+          colour: "#328169"
+          note: "(formerly @)"
         - name: ElbowSkinn
           colour: "#779825"
           note: "(formerly @)"
@@ -72,21 +73,19 @@ voice:
           colour: "#b620d4"
           note: "(formerly @)"
         - name: FORTNlTE
-          colour: "#b04cb9" 
+          colour: "#b04cb9"
+        - name: Hyzerflippin
+          colour: "#b62ac0" 
         - name: Monoples
           colour: "#be23cc"
         - name: Qui-Gon the Flygon
           colour: "#ce0c12"
           note: "(formerly %)"
-        - name: shadowsirens
-          colour: "#a251bb"
-          note: "(formerly %)"
         - name: Tapler
           colour: "#b48122"
-        - name: watfor
-          colour: "#2b66d5"
-        - name: wintminter
-          colour: "#8b59c8"          
+        - name: TeutonicSquire
+          colour: "#4c871c"
+          note: "(formerly @)"       
 
 formerro:
     start: "<strong>"
@@ -170,8 +169,6 @@ formermod:
           colour: "#3675a6"
         - name: CocoonMetaKnight
           colour: "#d95e21"
-        - name: Dazelel
-          colour: "#328169"
         - name: Dodmen
           colour: "#0a9d87"
         - name: Found then Lost
@@ -258,6 +255,8 @@ formerdriver:
           colour: "#87923f"
         - name: BoltSapphire
           colour: "#54a40a"
+        - name: CDman
+          colour: "#a94790"
         - name: chillmf
           colour: "#6c34e7"
         - name: damnright
@@ -314,6 +313,8 @@ formerdriver:
           colour: "#7C9e0a"
         - name: Shayy Min Skyy
           colour: "#aa1da3"
+        - name: shadowsirens
+          colour: "#a251bb"
         - name: skiddo
           colour: "#aa7037"
         - name: SkywardSword596
