@@ -33,13 +33,13 @@ driver:
     start: "<strong>"
     end: "</strong>"
     users:
-        - name: Cazenovia
-          colour: "#619617"
         - name: DanDaMan99
           colour: "#997a38"
           note: "(formerly @)"
         - name: dot Comfey
           colour: "#c64040"
+        - name: Hyzerflippin
+          colour: "#b62ac0" 
         - name: mayple⍼treeway
           colour: "#1669c7"
         - name: Mystiphox
@@ -74,15 +74,13 @@ voice:
           note: "(formerly @)"
         - name: FORTNlTE
           colour: "#b04cb9"
-        - name: Hyzerflippin
-          colour: "#b62ac0" 
+        - name: LainaVista
+          colour: "#b73232"
         - name: Monoples
           colour: "#be23cc"
         - name: Qui-Gon the Flygon
           colour: "#ce0c12"
           note: "(formerly %)"
-        - name: Tapler
-          colour: "#b48122"
         - name: TeutonicSquire
           colour: "#4c871c"
           note: "(formerly @)"       
@@ -255,6 +253,8 @@ formerdriver:
           colour: "#87923f"
         - name: BoltSapphire
           colour: "#54a40a"
+        - name: Cazenovia
+          colour: "#619617"
         - name: CDman
           colour: "#a94790"
         - name: chillmf
