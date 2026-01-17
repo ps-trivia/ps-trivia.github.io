@@ -241,7 +241,9 @@ When you have the BP, you get to ask one question, and one question only. These 
 
 ##### PS! Command-searchable Questions
 
-Answers that can be found easily using PS! commands such as /dt, /ds, /ms, /as, /is, /tier or /om are not allowed; however, in the case of /is- and /as-searchable questions, they will only be vetoed if they can be found by using exact words or phrases from your question. 
+Answers that can be found easily using PS! commands such as /dt, /ds, /ms, /tier or /om are not allowed.
+
+Note that /is- and /as-searchable questions are an exception to this rule and can be asked. 
 
 ![Searchable 1](/assets/images/tt-searchable-1.png)
 
