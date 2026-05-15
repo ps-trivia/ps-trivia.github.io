@@ -1,6 +1,8 @@
 years:
     - year: 2026
       updates:
+          - date: May 15
+            text: "Main series clause now formally uses Pokemon HOME's Pokedex. This allows Legends Z-A Megas, their known information, and any future HOME-connected Pokemon to be considered by default. If a Pokemon lacks some attribute (e.g an Ability) due to not being transferrable to a game with main series mechanics, it is considered an invalid answer with respect to that attribute. Pokemon Champions is not yet the VGC default, and is currently treated as a side game."
           - date: Jan 16
             text: "/is- and /as- searchable questions are now allowed."
     - year: 2025
