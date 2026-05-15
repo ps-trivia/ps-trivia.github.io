@@ -368,9 +368,11 @@ Pokemon and moves that can be multiple types are counted as their default type u
 
 ##### Main Series Clause
 
-All questions about Pokemon games are in the context of the most recent main series games. If the answer to your question comes from a side game and could apply to main series mechanics/characters, you must mention which side game you're referring to in your question. Pokemon Let's Go and Pokemon Legends: Arceus are not main series games.
+All questions about Pokemon games are in the context of the most recent main series games. Asking about content exclusive to side games is always allowed, but if your question could apply to main series mechanics/characters, you must disambiguate by mentioning which games you are referring to. Pokemon Let’s Go and Pokemon Legends are considered side games for this purpose.
 
-Furthermore, all questions will assume the National Dex. However, all mechanics, such as battle mechanics, item mechanics, move mechanics, etc. would default to the context of the current VGC game, which are currently Pokemon Scarlet and Violet.
+Furthermore, all questions assume the Pokemon HOME National Dex, which includes new Pokemon introduced in Pokemon Legends. However, all mechanics, such as battle mechanics, item mechanics, move mechanics, etc. default to the context of the current VGC game, which currently remains Pokemon Scarlet and Violet. If a Pokemon lacks some attribute (e.g an Ability) due to not being transferrable to a game with these mechanics, it is considered an invalid answer with respect to that attribute.
+
+Due to its mechanical differences and presently uncertain scope, Pokemon Champions is not yet considered the current VGC game default. It can be treated as a side game for the purposes of asking about Champions-specific mechanics.
 
 ![Main series](/assets/images/tt-main-series.png)
 *Skyridge Machamp has the ability Immunity in the TCG, but Zangoose counts because of Main Series Clause.*
