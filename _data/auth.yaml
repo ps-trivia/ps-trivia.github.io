@@ -36,6 +36,9 @@ driver:
         - name: DanDaMan99
           colour: "#997a38"
           note: "(formerly @)"
+        - name: Dazelel
+          colour: "#328169"
+          note: "(formerly @)"
         - name: dot Comfey
           colour: "#c64040"
         - name: Hyzerflippin
@@ -61,9 +64,8 @@ voice:
         - name: Christmas
           colour: "#6938ef"
           note: "(formerly %)"
-        - name: Dazelel
-          colour: "#328169"
-          note: "(formerly @)"
+        - name: curlycrycaycay
+          colour: "#cb1573"
         - name: ElbowSkinn
           colour: "#779825"
           note: "(formerly @)"
