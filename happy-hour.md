@@ -36,4 +36,4 @@ When the game is over, use ``~ttl add, [user], [points]`` to give out bonus poin
 
 This is played in the same way as Happy Hour, but the condition on questions is not announced at the start. Players will be told if their question follows the condition, but not what it is.
 
-Players can guess the condition (in PMs to the host) one time for every question that is asked. If they guess correctly, they earn 10 bonus points.
+Players can guess the condition (in PMs to the host) one time for every question that is asked. If they guess correctly, they earn 5 bonus points.
