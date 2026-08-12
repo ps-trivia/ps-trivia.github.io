@@ -16,14 +16,16 @@ mod:
     users:
         - name: Beedrill-Mega
           colour: "#ab7533"
-        - name: Falcon2703
+        - name: Falcon
           colour: "#19b1a7"
         - name: Felucia
           colour: "#cd2d80"
+        - name: Lillie
+          colour: "#775ce0"
         - name: StrmSrg
           colour: "#0e5fd8"
-        - name: Treozukek
-          colour: "#4785b1"
+        - name: TRE0
+          colour: "#218c65"
         - name: WarriorGallade
           colour: "#8431e9"
         - name: Yech
@@ -39,8 +41,6 @@ driver:
         - name: Dazelel
           colour: "#328169"
           note: "(formerly @)"
-        - name: dot Comfey
-          colour: "#c64040"
         - name: Hyzerflippin
           colour: "#b62ac0" 
         - name: mayple⍼treeway
@@ -66,6 +66,8 @@ voice:
           note: "(formerly %)"
         - name: curlycrycaycay
           colour: "#cb1573"
+        - name: einstien74 (formerly %)
+          colour: "#969011" 
         - name: ElbowSkinn
           colour: "#779825"
           note: "(formerly @)"
@@ -80,6 +82,8 @@ voice:
           colour: "#b73232"
         - name: Monoples
           colour: "#be23cc"
+        - name: mrnothingman
+          colour: "#8765c9"
         - name: Qui-Gon the Flygon
           colour: "#ce0c12"
           note: "(formerly %)"
@@ -251,7 +255,7 @@ formerdriver:
           colour: "#dd75d5"
         - name: Axamin
           colour: "#a46646"
-        - name: Bidoof_Overlord119
+        - name: Bidoof Overlord119
           colour: "#87923f"
         - name: BoltSapphire
           colour: "#54a40a"
@@ -265,8 +269,6 @@ formerdriver:
           colour: "#47a77d"
         - name: Dawn's Piplup
           colour: "#7a59a9"
-        - name: einstien74
-          colour: "#969011"
         - name: finalninja243
           colour: "#328570"
         - name: Flerovium
